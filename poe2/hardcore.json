@@ -2,33 +2,44 @@
  "format": "poe2-ninja-prices",
  "formatVersion": 1,
  "league": "Hardcore",
- "fetchedAt": "2026-10-22T17:14:19.459Z",
- "baseCurrency": "chaos",
+ "fetchedAt": "2026-10-22T20:35:58.912Z",
+ "baseCurrency": "exalted",
  "rates": {
-  "exalted": 30
+  "divine": 0.002667,
+  "chaos": 0.03333
  },
  "source": "https://poe.ninja/poe2/economy",
- "failed": [],
+ "failed": [
+  {
+   "type": "Delirium",
+   "error": "fetch failed"
+  }
+ ],
  "items": {
   "chaos": {
    "name": "Chaos Orb",
-   "value": 1,
+   "value": 30,
    "type": "Currency"
   },
   "exalted": {
    "name": "Exalted Orb",
-   "value": 0.03333,
+   "value": 1,
+   "type": "Currency"
+  },
+  "divine": {
+   "name": "Divine Orb",
+   "value": 375,
    "type": "Currency"
   },
   "gcp": {
    "name": "Gemcutter's Prism",
-   "value": 1.67,
+   "value": 50,
    "type": "Currency"
   },
-  "perfect-jewellers-orb": {
-   "name": "Perfect Jeweller's Orb",
-   "value": 10,
-   "type": "Currency"
+  "omen-of-light": {
+   "name": "Omen of Light",
+   "value": 3562,
+   "type": "Ritual"
   }
  }
 }

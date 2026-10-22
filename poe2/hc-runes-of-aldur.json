@@ -2,63 +2,58 @@
  "format": "poe2-ninja-prices",
  "formatVersion": 1,
  "league": "HC Runes of Aldur",
- "fetchedAt": "2026-10-22T17:14:19.459Z",
- "baseCurrency": "chaos",
+ "fetchedAt": "2026-10-22T20:35:58.912Z",
+ "baseCurrency": "exalted",
  "rates": {
-  "exalted": 29,
-  "divine": 0.1
+  "divine": 0.00625,
+  "chaos": 0.03448
  },
  "source": "https://poe.ninja/poe2/economy",
  "failed": [],
  "items": {
   "chaos": {
    "name": "Chaos Orb",
+   "value": 29,
+   "type": "Currency"
+  },
+  "exalted": {
+   "name": "Exalted Orb",
    "value": 1,
    "type": "Currency"
   },
   "divine": {
    "name": "Divine Orb",
-   "value": 10,
-   "type": "Currency"
-  },
-  "exalted": {
-   "name": "Exalted Orb",
-   "value": 0.03448,
-   "type": "Currency"
-  },
-  "perfect-jewellers-orb": {
-   "name": "Perfect Jeweller's Orb",
-   "value": 140,
+   "value": 160,
    "type": "Currency"
   },
   "greater-exalted-orb": {
    "name": "Greater Exalted Orb",
-   "value": 5,
+   "value": 145,
    "type": "Currency"
   },
   "preserved-collarbone": {
    "name": "Preserved Collarbone",
-   "value": 6,
+   "value": 174,
    "type": "Abyss"
   },
   "greater-essence-of-grounding": {
    "name": "Greater Essence of Grounding",
-   "value": 0.8621,
+   "value": 25,
    "type": "Essences"
   },
   "omen-of-dextral-necromancy": {
    "name": "Omen of Dextral Necromancy",
-   "value": 1,
+   "value": 29,
    "type": "Ritual"
   },
   "cyclonic-alloy": {
    "name": "Cyclonic Alloy",
-   "value": 20,
+   "value": 320,
    "type": "Verisium"
   },
   "prismatic-alloy": {
    "name": "Prismatic Alloy",
-   "value": 3.45,
+   "value": 100,
    "type": "Verisium"
   }
  }
