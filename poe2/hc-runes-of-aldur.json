@@ -2,10 +2,10 @@
  "format": "poe2-ninja-prices",
  "formatVersion": 1,
  "league": "HC Runes of Aldur",
- "fetchedAt": "2026-10-21T09:39:27.010Z",
+ "fetchedAt": "2026-10-22T11:43:00.909Z",
  "baseCurrency": "divine",
  "rates": {
-  "exalted": 200
+  "exalted": 120
  },
  "source": "https://poe.ninja/poe2/economy",
  "failed": [],
@@ -17,7 +17,12 @@
   },
   "exalted": {
    "name": "Exalted Orb",
-   "value": 0.005,
+   "value": 0.008333,
+   "type": "Currency"
+  },
+  "greater-jewellers-orb": {
+   "name": "Greater Jeweller's Orb",
+   "value": 2,
    "type": "Currency"
   }
  }
