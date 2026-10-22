@@ -2,10 +2,33 @@
  "format": "poe2-ninja-prices",
  "formatVersion": 1,
  "league": "Hardcore",
- "fetchedAt": "2026-10-22T11:43:00.909Z",
- "baseCurrency": "divine",
- "rates": {},
+ "fetchedAt": "2026-10-22T17:14:19.459Z",
+ "baseCurrency": "chaos",
+ "rates": {
+  "exalted": 30
+ },
  "source": "https://poe.ninja/poe2/economy",
  "failed": [],
- "items": {}
+ "items": {
+  "chaos": {
+   "name": "Chaos Orb",
+   "value": 1,
+   "type": "Currency"
+  },
+  "exalted": {
+   "name": "Exalted Orb",
+   "value": 0.03333,
+   "type": "Currency"
+  },
+  "gcp": {
+   "name": "Gemcutter's Prism",
+   "value": 1.67,
+   "type": "Currency"
+  },
+  "perfect-jewellers-orb": {
+   "name": "Perfect Jeweller's Orb",
+   "value": 10,
+   "type": "Currency"
+  }
+ }
 }
