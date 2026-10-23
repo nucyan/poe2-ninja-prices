@@ -2,54 +2,16 @@
  "format": "poe2-ninja-prices",
  "formatVersion": 1,
  "league": "HC Runes of Aldur",
- "fetchedAt": "2026-10-23T04:56:34.901Z",
- "baseCurrency": "divine",
- "rates": {
-  "exalted": 120,
-  "chaos": 5
- },
+ "fetchedAt": "2026-10-23T10:08:00.615Z",
+ "baseCurrency": "exalted",
+ "rates": {},
  "source": "https://poe.ninja/poe2/economy",
  "failed": [],
  "items": {
-  "chaos": {
-   "name": "Chaos Orb",
-   "value": 0.2,
-   "type": "Currency"
-  },
-  "bauble": {
-   "name": "Glassblower's Bauble",
-   "value": 0.17,
-   "type": "Currency"
-  },
-  "divine": {
-   "name": "Divine Orb",
-   "value": 1,
-   "type": "Currency"
-  },
-  "exalted": {
-   "name": "Exalted Orb",
-   "value": 0.008333,
-   "type": "Currency"
-  },
-  "greater-exalted-orb": {
-   "name": "Greater Exalted Orb",
-   "value": 0.25,
-   "type": "Currency"
-  },
   "vaal": {
    "name": "Vaal Orb",
-   "value": 0.08333,
+   "value": 10,
    "type": "Currency"
-  },
-  "preserved-collarbone": {
-   "name": "Preserved Collarbone",
-   "value": 1.22,
-   "type": "Abyss"
-  },
-  "sibilant-catalyst": {
-   "name": "Sibilant Catalyst",
-   "value": 1,
-   "type": "Breach"
   }
  }
 }
