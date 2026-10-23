@@ -2,10 +2,10 @@
  "format": "poe2-ninja-prices",
  "formatVersion": 1,
  "league": "HC Runes of Aldur",
- "fetchedAt": "2026-10-23T19:17:41.829Z",
+ "fetchedAt": "2026-10-23T23:11:16.814Z",
  "baseCurrency": "chaos",
  "rates": {
-  "divine": 0.209
+  "divine": 0.2
  },
  "source": "https://poe.ninja/poe2/economy",
  "failed": [],
@@ -15,9 +15,14 @@
    "value": 1,
    "type": "Currency"
   },
+  "annul": {
+   "name": "Orb of Annulment",
+   "value": 2,
+   "type": "Currency"
+  },
   "divine": {
    "name": "Divine Orb",
-   "value": 4.79,
+   "value": 5,
    "type": "Currency"
   },
   "greater-chaos-orb": {
@@ -27,7 +32,7 @@
   },
   "the-greatwolfs-rune-of-claws": {
    "name": "The Greatwolf's Rune of Claws",
-   "value": 23.93,
+   "value": 25,
    "type": "Runes"
   }
  }
