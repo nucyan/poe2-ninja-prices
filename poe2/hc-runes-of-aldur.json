@@ -2,16 +2,28 @@
  "format": "poe2-ninja-prices",
  "formatVersion": 1,
  "league": "HC Runes of Aldur",
- "fetchedAt": "2026-10-23T10:08:00.615Z",
- "baseCurrency": "exalted",
- "rates": {},
+ "fetchedAt": "2026-10-23T15:08:06.575Z",
+ "baseCurrency": "chaos",
+ "rates": {
+  "divine": 0.25
+ },
  "source": "https://poe.ninja/poe2/economy",
  "failed": [],
  "items": {
-  "vaal": {
-   "name": "Vaal Orb",
-   "value": 10,
+  "chaos": {
+   "name": "Chaos Orb",
+   "value": 1,
    "type": "Currency"
+  },
+  "divine": {
+   "name": "Divine Orb",
+   "value": 4,
+   "type": "Currency"
+  },
+  "preserved-jawbone": {
+   "name": "Preserved Jawbone",
+   "value": 0.2222,
+   "type": "Abyss"
   }
  }
 }
