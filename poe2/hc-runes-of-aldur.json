@@ -2,27 +2,37 @@
  "format": "poe2-ninja-prices",
  "formatVersion": 1,
  "league": "HC Runes of Aldur",
- "fetchedAt": "2026-10-24T12:43:08.973Z",
+ "fetchedAt": "2026-10-24T16:38:10.982Z",
  "baseCurrency": "chaos",
  "rates": {
-  "exalted": 23
+  "exalted": 10.5
  },
  "source": "https://poe.ninja/poe2/economy",
  "failed": [],
  "items": {
+  "annul": {
+   "name": "Orb of Annulment",
+   "value": 9.52,
+   "type": "Currency"
+  },
+  "exalted": {
+   "name": "Exalted Orb",
+   "value": 0.09524,
+   "type": "Currency"
+  },
   "chaos": {
    "name": "Chaos Orb",
    "value": 1,
    "type": "Currency"
   },
-  "exalted": {
-   "name": "Exalted Orb",
-   "value": 0.04348,
-   "type": "Currency"
-  },
   "lesser-jewellers-orb": {
    "name": "Lesser Jeweller's Orb",
-   "value": 0.04348,
+   "value": 0.09524,
+   "type": "Currency"
+  },
+  "vaal": {
+   "name": "Vaal Orb",
+   "value": 0.6667,
    "type": "Currency"
   },
   "preserved-cranium": {
@@ -32,27 +42,22 @@
   },
   "greater-stone-rune": {
    "name": "Greater Stone Rune",
-   "value": 0.04348,
-   "type": "Runes"
-  },
-  "lesser-iron-rune": {
-   "name": "Lesser Iron Rune",
-   "value": 0.04348,
+   "value": 0.09524,
    "type": "Runes"
   },
   "expansive-alloy": {
    "name": "Expansive Alloy",
-   "value": 0.2174,
+   "value": 0.4762,
    "type": "Verisium"
   },
   "runic-alloy": {
    "name": "Runic Alloy",
-   "value": 0.04348,
+   "value": 0.09524,
    "type": "Verisium"
   },
   "sovereign-alloy": {
    "name": "Sovereign Alloy",
-   "value": 3.48,
+   "value": 7.62,
    "type": "Verisium"
   }
  }
