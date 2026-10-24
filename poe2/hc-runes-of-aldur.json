@@ -2,7 +2,7 @@
  "format": "poe2-ninja-prices",
  "formatVersion": 1,
  "league": "HC Runes of Aldur",
- "fetchedAt": "2026-10-24T19:31:13.046Z",
+ "fetchedAt": "2026-10-24T22:31:12.095Z",
  "baseCurrency": "chaos",
  "rates": {
   "exalted": 4
@@ -10,6 +10,11 @@
  "source": "https://poe.ninja/poe2/economy",
  "failed": [],
  "items": {
+  "chaos": {
+   "name": "Chaos Orb",
+   "value": 1,
+   "type": "Currency"
+  },
   "annul": {
    "name": "Orb of Annulment",
    "value": 2,
@@ -20,14 +25,9 @@
    "value": 0.25,
    "type": "Currency"
   },
-  "chaos": {
-   "name": "Chaos Orb",
-   "value": 1,
-   "type": "Currency"
-  },
-  "vaal": {
-   "name": "Vaal Orb",
-   "value": 1.75,
+  "scrap": {
+   "name": "Armourer's Scrap",
+   "value": 0.75,
    "type": "Currency"
   },
   "preserved-cranium": {
@@ -39,6 +39,11 @@
    "name": "Perfect Essence of Sorcery",
    "value": 1,
    "type": "Essences"
+  },
+  "omen-of-resurgence": {
+   "name": "Omen of Resurgence",
+   "value": 25,
+   "type": "Ritual"
   },
   "protective-alloy": {
    "name": "Protective Alloy",
