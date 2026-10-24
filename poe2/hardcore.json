@@ -2,7 +2,7 @@
  "format": "poe2-ninja-prices",
  "formatVersion": 1,
  "league": "Hardcore",
- "fetchedAt": "2026-10-24T01:38:03.760Z",
+ "fetchedAt": "2026-10-24T07:20:57.174Z",
  "baseCurrency": "chaos",
  "rates": {
   "exalted": 40
@@ -10,19 +10,19 @@
  "source": "https://poe.ninja/poe2/economy",
  "failed": [],
  "items": {
-  "chaos": {
-   "name": "Chaos Orb",
-   "value": 1,
-   "type": "Currency"
-  },
   "exalted": {
    "name": "Exalted Orb",
    "value": 0.025,
    "type": "Currency"
   },
-  "vaal": {
-   "name": "Vaal Orb",
-   "value": 0.2,
+  "regal": {
+   "name": "Regal Orb",
+   "value": 0.075,
+   "type": "Currency"
+  },
+  "chaos": {
+   "name": "Chaos Orb",
+   "value": 1,
    "type": "Currency"
   }
  }

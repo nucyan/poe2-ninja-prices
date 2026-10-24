@@ -2,10 +2,10 @@
  "format": "poe2-ninja-prices",
  "formatVersion": 1,
  "league": "HC Runes of Aldur",
- "fetchedAt": "2026-10-24T01:38:03.760Z",
+ "fetchedAt": "2026-10-24T07:20:57.174Z",
  "baseCurrency": "divine",
  "rates": {
-  "exalted": 120
+  "exalted": 97.79
  },
  "source": "https://poe.ninja/poe2/economy",
  "failed": [],
@@ -17,18 +17,53 @@
   },
   "exalted": {
    "name": "Exalted Orb",
-   "value": 0.008333,
+   "value": 0.01023,
+   "type": "Currency"
+  },
+  "fracturing-orb": {
+   "name": "Fracturing Orb",
+   "value": 7,
+   "type": "Currency"
+  },
+  "perfect-jewellers-orb": {
+   "name": "Perfect Jeweller's Orb",
+   "value": 1,
+   "type": "Currency"
+  },
+  "scrap": {
+   "name": "Armourer's Scrap",
+   "value": 0.05113,
+   "type": "Currency"
+  },
+  "greater-chaos-orb": {
+   "name": "Greater Chaos Orb",
+   "value": 2,
    "type": "Currency"
   },
   "vaal": {
    "name": "Vaal Orb",
-   "value": 0.05417,
+   "value": 0.1023,
    "type": "Currency"
+  },
+  "ancient-jawbone": {
+   "name": "Ancient Jawbone",
+   "value": 7,
+   "type": "Abyss"
   },
   "preserved-cranium": {
    "name": "Preserved Cranium",
-   "value": 1.67,
+   "value": 2.06,
    "type": "Abyss"
+  },
+  "omen-of-whittling": {
+   "name": "Omen of Whittling",
+   "value": 13,
+   "type": "Ritual"
+  },
+  "mystic-alloy": {
+   "name": "Mystic Alloy",
+   "value": 5.11,
+   "type": "Verisium"
   }
  }
 }
