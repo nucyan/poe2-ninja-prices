@@ -2,38 +2,33 @@
  "format": "poe2-ninja-prices",
  "formatVersion": 1,
  "league": "HC Runes of Aldur",
- "fetchedAt": "2026-10-23T23:11:16.814Z",
- "baseCurrency": "chaos",
+ "fetchedAt": "2026-10-24T01:38:03.760Z",
+ "baseCurrency": "divine",
  "rates": {
-  "divine": 0.2
+  "exalted": 120
  },
  "source": "https://poe.ninja/poe2/economy",
  "failed": [],
  "items": {
-  "chaos": {
-   "name": "Chaos Orb",
+  "divine": {
+   "name": "Divine Orb",
    "value": 1,
    "type": "Currency"
   },
-  "annul": {
-   "name": "Orb of Annulment",
-   "value": 2,
+  "exalted": {
+   "name": "Exalted Orb",
+   "value": 0.008333,
    "type": "Currency"
   },
-  "divine": {
-   "name": "Divine Orb",
-   "value": 5,
+  "vaal": {
+   "name": "Vaal Orb",
+   "value": 0.05417,
    "type": "Currency"
   },
-  "greater-chaos-orb": {
-   "name": "Greater Chaos Orb",
-   "value": 2,
-   "type": "Currency"
-  },
-  "the-greatwolfs-rune-of-claws": {
-   "name": "The Greatwolf's Rune of Claws",
-   "value": 25,
-   "type": "Runes"
+  "preserved-cranium": {
+   "name": "Preserved Cranium",
+   "value": 1.67,
+   "type": "Abyss"
   }
  }
 }

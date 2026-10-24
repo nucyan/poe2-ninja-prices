@@ -2,26 +2,28 @@
  "format": "poe2-ninja-prices",
  "formatVersion": 1,
  "league": "Hardcore",
- "fetchedAt": "2026-10-23T23:11:16.814Z",
- "baseCurrency": "exalted",
- "rates": {},
+ "fetchedAt": "2026-10-24T01:38:03.760Z",
+ "baseCurrency": "chaos",
+ "rates": {
+  "exalted": 40
+ },
  "source": "https://poe.ninja/poe2/economy",
  "failed": [],
  "items": {
-  "regal": {
-   "name": "Regal Orb",
-   "value": 3,
+  "chaos": {
+   "name": "Chaos Orb",
+   "value": 1,
+   "type": "Currency"
+  },
+  "exalted": {
+   "name": "Exalted Orb",
+   "value": 0.025,
    "type": "Currency"
   },
   "vaal": {
    "name": "Vaal Orb",
-   "value": 8,
+   "value": 0.2,
    "type": "Currency"
-  },
-  "liquid-disgust": {
-   "name": "Liquid Disgust",
-   "value": 30,
-   "type": "Delirium"
   }
  }
 }
