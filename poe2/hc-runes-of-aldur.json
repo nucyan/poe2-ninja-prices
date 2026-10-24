@@ -2,67 +2,57 @@
  "format": "poe2-ninja-prices",
  "formatVersion": 1,
  "league": "HC Runes of Aldur",
- "fetchedAt": "2026-10-24T07:20:57.174Z",
- "baseCurrency": "divine",
+ "fetchedAt": "2026-10-24T12:43:08.973Z",
+ "baseCurrency": "chaos",
  "rates": {
-  "exalted": 97.79
+  "exalted": 23
  },
  "source": "https://poe.ninja/poe2/economy",
  "failed": [],
  "items": {
-  "divine": {
-   "name": "Divine Orb",
+  "chaos": {
+   "name": "Chaos Orb",
    "value": 1,
    "type": "Currency"
   },
   "exalted": {
    "name": "Exalted Orb",
-   "value": 0.01023,
+   "value": 0.04348,
    "type": "Currency"
   },
-  "fracturing-orb": {
-   "name": "Fracturing Orb",
-   "value": 7,
+  "lesser-jewellers-orb": {
+   "name": "Lesser Jeweller's Orb",
+   "value": 0.04348,
    "type": "Currency"
-  },
-  "perfect-jewellers-orb": {
-   "name": "Perfect Jeweller's Orb",
-   "value": 1,
-   "type": "Currency"
-  },
-  "scrap": {
-   "name": "Armourer's Scrap",
-   "value": 0.05113,
-   "type": "Currency"
-  },
-  "greater-chaos-orb": {
-   "name": "Greater Chaos Orb",
-   "value": 2,
-   "type": "Currency"
-  },
-  "vaal": {
-   "name": "Vaal Orb",
-   "value": 0.1023,
-   "type": "Currency"
-  },
-  "ancient-jawbone": {
-   "name": "Ancient Jawbone",
-   "value": 7,
-   "type": "Abyss"
   },
   "preserved-cranium": {
    "name": "Preserved Cranium",
-   "value": 2.06,
+   "value": 10,
    "type": "Abyss"
   },
-  "omen-of-whittling": {
-   "name": "Omen of Whittling",
-   "value": 13,
-   "type": "Ritual"
+  "greater-stone-rune": {
+   "name": "Greater Stone Rune",
+   "value": 0.04348,
+   "type": "Runes"
   },
-  "mystic-alloy": {
-   "name": "Mystic Alloy",
-   "value": 5.11,
+  "lesser-iron-rune": {
+   "name": "Lesser Iron Rune",
+   "value": 0.04348,
+   "type": "Runes"
+  },
+  "expansive-alloy": {
+   "name": "Expansive Alloy",
+   "value": 0.2174,
+   "type": "Verisium"
+  },
+  "runic-alloy": {
+   "name": "Runic Alloy",
+   "value": 0.04348,
+   "type": "Verisium"
+  },
+  "sovereign-alloy": {
+   "name": "Sovereign Alloy",
+   "value": 3.48,
    "type": "Verisium"
   }
  }
