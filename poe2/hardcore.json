@@ -2,10 +2,28 @@
  "format": "poe2-ninja-prices",
  "formatVersion": 1,
  "league": "Hardcore",
- "fetchedAt": "2026-10-25T01:13:35.587Z",
+ "fetchedAt": "2026-10-25T06:13:30.772Z",
  "baseCurrency": "divine",
- "rates": {},
+ "rates": {
+  "exalted": 94
+ },
  "source": "https://poe.ninja/poe2/economy",
  "failed": [],
- "items": {}
+ "items": {
+  "divine": {
+   "name": "Divine Orb",
+   "value": 1,
+   "type": "Currency"
+  },
+  "exalted": {
+   "name": "Exalted Orb",
+   "value": 0.01064,
+   "type": "Currency"
+  },
+  "omen-of-light": {
+   "name": "Omen of Light",
+   "value": 9,
+   "type": "Ritual"
+  }
+ }
 }
