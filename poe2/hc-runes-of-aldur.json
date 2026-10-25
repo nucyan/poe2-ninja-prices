@@ -2,10 +2,10 @@
  "format": "poe2-ninja-prices",
  "formatVersion": 1,
  "league": "HC Runes of Aldur",
- "fetchedAt": "2026-10-25T16:27:33.915Z",
+ "fetchedAt": "2026-10-25T19:40:45.417Z",
  "baseCurrency": "chaos",
  "rates": {
-  "exalted": 20
+  "divine": 0.1
  },
  "source": "https://poe.ninja/poe2/economy",
  "failed": [],
@@ -15,20 +15,15 @@
    "value": 1,
    "type": "Currency"
   },
-  "exalted": {
-   "name": "Exalted Orb",
-   "value": 0.05,
+  "divine": {
+   "name": "Divine Orb",
+   "value": 10,
    "type": "Currency"
   },
   "preserved-cranium": {
    "name": "Preserved Cranium",
    "value": 10,
    "type": "Abyss"
-  },
-  "runic-alloy": {
-   "name": "Runic Alloy",
-   "value": 0.95,
-   "type": "Verisium"
   }
  }
 }
