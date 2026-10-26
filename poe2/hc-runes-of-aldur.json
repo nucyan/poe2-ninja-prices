@@ -2,31 +2,43 @@
  "format": "poe2-ninja-prices",
  "formatVersion": 1,
  "league": "HC Runes of Aldur",
- "fetchedAt": "2026-10-26T01:14:28.251Z",
- "baseCurrency": "exalted",
- "rates": {},
+ "fetchedAt": "2026-10-26T06:22:55.270Z",
+ "baseCurrency": "divine",
+ "rates": {
+  "exalted": 65
+ },
  "source": "https://poe.ninja/poe2/economy",
  "failed": [],
  "items": {
-  "lesser-jewellers-orb": {
-   "name": "Lesser Jeweller's Orb",
+  "divine": {
+   "name": "Divine Orb",
    "value": 1,
    "type": "Currency"
   },
-  "scrap": {
-   "name": "Armourer's Scrap",
-   "value": 0.1,
+  "exalted": {
+   "name": "Exalted Orb",
+   "value": 0.01538,
    "type": "Currency"
   },
-  "gcp": {
-   "name": "Gemcutter's Prism",
-   "value": 36,
+  "lesser-jewellers-orb": {
+   "name": "Lesser Jeweller's Orb",
+   "value": 0.01538,
    "type": "Currency"
   },
   "vaal": {
    "name": "Vaal Orb",
-   "value": 7,
+   "value": 0.1077,
    "type": "Currency"
+  },
+  "ancient-jawbone": {
+   "name": "Ancient Jawbone",
+   "value": 7,
+   "type": "Abyss"
+  },
+  "omen-of-abyssal-echoes": {
+   "name": "Omen of Abyssal Echoes",
+   "value": 1.5,
+   "type": "Ritual"
   }
  }
 }
