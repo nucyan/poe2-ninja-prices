@@ -2,25 +2,14 @@
  "format": "poe2-ninja-prices",
  "formatVersion": 1,
  "league": "HC Runes of Aldur",
- "fetchedAt": "2026-10-27T18:45:49.261Z",
+ "fetchedAt": "2026-10-27T22:58:28.243Z",
  "baseCurrency": "divine",
  "rates": {
-  "exalted": 100,
-  "chaos": 5
+  "exalted": 100
  },
  "source": "https://poe.ninja/poe2/economy",
  "failed": [],
  "items": {
-  "chaos": {
-   "name": "Chaos Orb",
-   "value": 0.2,
-   "type": "Currency"
-  },
-  "annul": {
-   "name": "Orb of Annulment",
-   "value": 2,
-   "type": "Currency"
-  },
   "divine": {
    "name": "Divine Orb",
    "value": 1,
@@ -31,20 +20,10 @@
    "value": 0.01,
    "type": "Currency"
   },
-  "ancient-collarbone": {
-   "name": "Ancient Collarbone",
-   "value": 10,
+  "preserved-jawbone": {
+   "name": "Preserved Jawbone",
+   "value": 0.1,
    "type": "Abyss"
-  },
-  "omen-of-light": {
-   "name": "Omen of Light",
-   "value": 10,
-   "type": "Ritual"
-  },
-  "prismatic-alloy": {
-   "name": "Prismatic Alloy",
-   "value": 1,
-   "type": "Verisium"
   }
  }
 }
