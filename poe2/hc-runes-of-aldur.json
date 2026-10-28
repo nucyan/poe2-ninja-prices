@@ -2,39 +2,38 @@
  "format": "poe2-ninja-prices",
  "formatVersion": 1,
  "league": "HC Runes of Aldur",
- "fetchedAt": "2026-10-28T09:44:34.824Z",
- "baseCurrency": "divine",
+ "fetchedAt": "2026-10-28T16:41:06.438Z",
+ "baseCurrency": "chaos",
  "rates": {
-  "exalted": 100,
-  "chaos": 4
+  "divine": 0.25
  },
  "source": "https://poe.ninja/poe2/economy",
  "failed": [],
  "items": {
-  "divine": {
-   "name": "Divine Orb",
+  "chaos": {
+   "name": "Chaos Orb",
    "value": 1,
    "type": "Currency"
   },
-  "exalted": {
-   "name": "Exalted Orb",
-   "value": 0.01,
+  "divine": {
+   "name": "Divine Orb",
+   "value": 4,
    "type": "Currency"
   },
   "greater-exalted-orb": {
    "name": "Greater Exalted Orb",
-   "value": 0.25,
+   "value": 5,
    "type": "Currency"
   },
-  "greater-jewellers-orb": {
-   "name": "Greater Jeweller's Orb",
-   "value": 0.5,
-   "type": "Currency"
+  "ancient-crisis-fragment": {
+   "name": "Ancient Crisis Fragment",
+   "value": 40,
+   "type": "Fragments"
   },
-  "chaos": {
-   "name": "Chaos Orb",
-   "value": 0.25,
-   "type": "Currency"
+  "faded-crisis-fragment": {
+   "name": "Faded Crisis Fragment",
+   "value": 40,
+   "type": "Fragments"
   }
  }
 }

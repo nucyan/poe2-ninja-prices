@@ -2,10 +2,15 @@
  "format": "poe2-ninja-prices",
  "formatVersion": 1,
  "league": "Hardcore",
- "fetchedAt": "2026-10-28T09:44:34.824Z",
+ "fetchedAt": "2026-10-28T16:41:06.438Z",
  "baseCurrency": "divine",
  "rates": {},
  "source": "https://poe.ninja/poe2/economy",
- "failed": [],
+ "failed": [
+  {
+   "type": "Expedition",
+   "error": "fetch failed"
+  }
+ ],
  "items": {}
 }

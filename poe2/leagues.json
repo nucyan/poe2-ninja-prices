@@ -1,27 +1,27 @@
 {
  "format": "poe2-ninja-price-index",
  "formatVersion": 1,
- "fetchedAt": "2026-10-28T09:44:34.824Z",
+ "fetchedAt": "2026-10-28T16:41:06.438Z",
  "leagues": [
   {
    "id": "Forbidden Rites",
    "name": "Forbidden Rites",
    "file": "forbidden-rites.json",
-   "items": 505,
+   "items": 513,
    "failed": 0
   },
   {
    "id": "Runes of Aldur",
    "name": "Runes of Aldur",
    "file": "runes-of-aldur.json",
-   "items": 333,
-   "failed": 0
+   "items": 320,
+   "failed": 1
   },
   {
    "id": "HC Forbidden Rites",
    "name": "HC Forbidden Rites",
    "file": "hc-forbidden-rites.json",
-   "items": 192,
+   "items": 214,
    "failed": 0
   },
   {
@@ -35,7 +35,7 @@
    "id": "Standard",
    "name": "Standard",
    "file": "standard.json",
-   "items": 249,
+   "items": 254,
    "failed": 0
   },
   {
@@ -43,7 +43,7 @@
    "name": "Hardcore",
    "file": "hardcore.json",
    "items": 0,
-   "failed": 0
+   "failed": 1
   }
  ]
 }
