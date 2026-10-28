@@ -2,15 +2,16 @@
  "format": "poe2-ninja-prices",
  "formatVersion": 1,
  "league": "Hardcore",
- "fetchedAt": "2026-10-28T16:41:06.438Z",
- "baseCurrency": "divine",
+ "fetchedAt": "2026-10-28T21:41:04.214Z",
+ "baseCurrency": "exalted",
  "rates": {},
  "source": "https://poe.ninja/poe2/economy",
- "failed": [
-  {
-   "type": "Expedition",
-   "error": "fetch failed"
+ "failed": [],
+ "items": {
+  "aug": {
+   "name": "Orb of Augmentation",
+   "value": 0.1,
+   "type": "Currency"
   }
- ],
- "items": {}
+ }
 }
