@@ -2,15 +2,33 @@
  "format": "poe2-ninja-prices",
  "formatVersion": 1,
  "league": "Hardcore",
- "fetchedAt": "2026-10-29T01:49:57.170Z",
+ "fetchedAt": "2026-10-29T08:33:46.585Z",
  "baseCurrency": "exalted",
- "rates": {},
+ "rates": {
+  "divine": 0.01053,
+  "chaos": 0.025
+ },
  "source": "https://poe.ninja/poe2/economy",
  "failed": [],
  "items": {
-  "aug": {
-   "name": "Orb of Augmentation",
-   "value": 0.1,
+  "chaos": {
+   "name": "Chaos Orb",
+   "value": 40,
+   "type": "Currency"
+  },
+  "exalted": {
+   "name": "Exalted Orb",
+   "value": 1,
+   "type": "Currency"
+  },
+  "divine": {
+   "name": "Divine Orb",
+   "value": 95,
+   "type": "Currency"
+  },
+  "transmute": {
+   "name": "Orb of Transmutation",
+   "value": 0.16,
    "type": "Currency"
   }
  }
