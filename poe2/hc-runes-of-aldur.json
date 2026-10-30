@@ -2,28 +2,18 @@
  "format": "poe2-ninja-prices",
  "formatVersion": 1,
  "league": "HC Runes of Aldur",
- "fetchedAt": "2026-10-30T19:27:54.962Z",
+ "fetchedAt": "2026-10-30T23:50:55.855Z",
  "baseCurrency": "divine",
  "rates": {
-  "exalted": 102.4,
-  "chaos": 7.61
+  "exalted": 100,
+  "chaos": 7.86
  },
  "source": "https://poe.ninja/poe2/economy",
  "failed": [],
  "items": {
-  "alch": {
-   "name": "Orb of Alchemy",
-   "value": 0.04882,
-   "type": "Currency"
-  },
-  "exalted": {
-   "name": "Exalted Orb",
-   "value": 0.009764,
-   "type": "Currency"
-  },
   "chaos": {
    "name": "Chaos Orb",
-   "value": 0.1314,
+   "value": 0.1273,
    "type": "Currency"
   },
   "divine": {
@@ -31,9 +21,14 @@
    "value": 1,
    "type": "Currency"
   },
-  "greater-regal-orb": {
-   "name": "Greater Regal Orb",
-   "value": 0.1314,
+  "exalted": {
+   "name": "Exalted Orb",
+   "value": 0.01,
+   "type": "Currency"
+  },
+  "lesser-jewellers-orb": {
+   "name": "Lesser Jeweller's Orb",
+   "value": 0.01,
    "type": "Currency"
   },
   "perfect-jewellers-orb": {
@@ -41,29 +36,29 @@
    "value": 5,
    "type": "Currency"
   },
+  "scrap": {
+   "name": "Armourer's Scrap",
+   "value": 0.04,
+   "type": "Currency"
+  },
+  "greater-chaos-orb": {
+   "name": "Greater Chaos Orb",
+   "value": 0.2545,
+   "type": "Currency"
+  },
+  "greater-regal-orb": {
+   "name": "Greater Regal Orb",
+   "value": 0.1273,
+   "type": "Currency"
+  },
   "perfect-regal-orb": {
    "name": "Perfect Regal Orb",
    "value": 6,
    "type": "Currency"
   },
-  "scrap": {
-   "name": "Armourer's Scrap",
-   "value": 0.03906,
-   "type": "Currency"
-  },
-  "greater-chaos-orb": {
-   "name": "Greater Chaos Orb",
-   "value": 0.2629,
-   "type": "Currency"
-  },
   "greater-exalted-orb": {
    "name": "Greater Exalted Orb",
    "value": 0.25,
-   "type": "Currency"
-  },
-  "vaal": {
-   "name": "Vaal Orb",
-   "value": 0.09764,
    "type": "Currency"
   },
   "ancient-crisis-fragment": {
@@ -78,37 +73,17 @@
   },
   "preserved-jawbone": {
    "name": "Preserved Jawbone",
-   "value": 0.04381,
+   "value": 0.04242,
    "type": "Abyss"
   },
-  "primate-idol": {
-   "name": "Primate Idol",
-   "value": 0.1074,
-   "type": "Idols"
+  "soul-core-of-tacati": {
+   "name": "Soul Core of Tacati",
+   "value": 0.78,
+   "type": "SoulCores"
   },
   "omen-of-light": {
    "name": "Omen of Light",
    "value": 10,
-   "type": "Ritual"
-  },
-  "omen-of-sinistral-annulment": {
-   "name": "Omen of Sinistral Annulment",
-   "value": 10,
-   "type": "Ritual"
-  },
-  "omen-of-sinistral-erasure": {
-   "name": "Omen of Sinistral Erasure",
-   "value": 10,
-   "type": "Ritual"
-  },
-  "omen-of-whittling": {
-   "name": "Omen of Whittling",
-   "value": 10,
-   "type": "Ritual"
-  },
-  "omen-of-the-hunt": {
-   "name": "Omen of the Hunt",
-   "value": 0.1314,
    "type": "Ritual"
   }
  }
