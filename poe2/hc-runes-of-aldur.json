@@ -2,38 +2,53 @@
  "format": "poe2-ninja-prices",
  "formatVersion": 1,
  "league": "HC Runes of Aldur",
- "fetchedAt": "2026-10-29T21:10:54.861Z",
- "baseCurrency": "exalted",
+ "fetchedAt": "2026-10-30T01:04:28.561Z",
+ "baseCurrency": "divine",
  "rates": {
-  "divine": 0.01,
-  "chaos": 0.03448
+  "exalted": 100,
+  "chaos": 5
  },
  "source": "https://poe.ninja/poe2/economy",
  "failed": [],
  "items": {
-  "chaos": {
-   "name": "Chaos Orb",
-   "value": 29,
+  "artificers": {
+   "name": "Artificer's Orb",
+   "value": 0.05,
    "type": "Currency"
   },
   "exalted": {
    "name": "Exalted Orb",
-   "value": 1,
+   "value": 0.01,
+   "type": "Currency"
+  },
+  "chaos": {
+   "name": "Chaos Orb",
+   "value": 0.2,
    "type": "Currency"
   },
   "divine": {
    "name": "Divine Orb",
-   "value": 100,
+   "value": 1,
+   "type": "Currency"
+  },
+  "scrap": {
+   "name": "Armourer's Scrap",
+   "value": 0.04,
+   "type": "Currency"
+  },
+  "greater-jewellers-orb": {
+   "name": "Greater Jeweller's Orb",
+   "value": 2,
    "type": "Currency"
   },
   "vaal": {
    "name": "Vaal Orb",
-   "value": 10,
+   "value": 0.1,
    "type": "Currency"
   },
   "preserved-jawbone": {
    "name": "Preserved Jawbone",
-   "value": 10,
+   "value": 0.1,
    "type": "Abyss"
   }
  }
