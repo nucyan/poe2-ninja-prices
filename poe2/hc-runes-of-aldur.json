@@ -2,10 +2,10 @@
  "format": "poe2-ninja-prices",
  "formatVersion": 1,
  "league": "HC Runes of Aldur",
- "fetchedAt": "2026-10-31T17:46:52.447Z",
+ "fetchedAt": "2026-10-31T21:39:17.138Z",
  "baseCurrency": "chaos",
  "rates": {
-  "divine": 0.125
+  "exalted": 25
  },
  "source": "https://poe.ninja/poe2/economy",
  "failed": [],
@@ -20,9 +20,19 @@
    "value": 2,
    "type": "Currency"
   },
-  "divine": {
-   "name": "Divine Orb",
-   "value": 8,
+  "exalted": {
+   "name": "Exalted Orb",
+   "value": 0.04,
+   "type": "Currency"
+  },
+  "perfect-jewellers-orb": {
+   "name": "Perfect Jeweller's Orb",
+   "value": 4,
+   "type": "Currency"
+  },
+  "scrap": {
+   "name": "Armourer's Scrap",
+   "value": 0.004,
    "type": "Currency"
   },
   "greater-exalted-orb": {
@@ -30,30 +40,35 @@
    "value": 5,
    "type": "Currency"
   },
-  "ancient-crisis-fragment": {
-   "name": "Ancient Crisis Fragment",
-   "value": 80,
-   "type": "Fragments"
+  "greater-jewellers-orb": {
+   "name": "Greater Jeweller's Orb",
+   "value": 1.2,
+   "type": "Currency"
   },
-  "faded-crisis-fragment": {
-   "name": "Faded Crisis Fragment",
-   "value": 53.33,
-   "type": "Fragments"
+  "vaal": {
+   "name": "Vaal Orb",
+   "value": 0.1,
+   "type": "Currency"
+  },
+  "omen-of-abyssal-echoes": {
+   "name": "Omen of Abyssal Echoes",
+   "value": 2,
+   "type": "Ritual"
+  },
+  "omen-of-bartering": {
+   "name": "Omen of Bartering",
+   "value": 0.36,
+   "type": "Ritual"
+  },
+  "omen-of-chaotic-rarity": {
+   "name": "Omen of Chaotic Rarity",
+   "value": 2,
+   "type": "Ritual"
   },
   "omen-of-putrefaction": {
    "name": "Omen of Putrefaction",
    "value": 3,
    "type": "Ritual"
-  },
-  "thaumaturgic-flux-20": {
-   "name": "Thaumaturgic Flux (Level 20)",
-   "value": 80,
-   "type": "Expedition"
-  },
-  "celestial-alloy": {
-   "name": "Celestial Alloy",
-   "value": 168,
-   "type": "Verisium"
   }
  }
 }
