@@ -2,58 +2,57 @@
  "format": "poe2-ninja-prices",
  "formatVersion": 1,
  "league": "HC Runes of Aldur",
- "fetchedAt": "2026-10-31T12:38:32.802Z",
- "baseCurrency": "divine",
+ "fetchedAt": "2026-10-31T17:46:52.447Z",
+ "baseCurrency": "chaos",
  "rates": {
-  "exalted": 100,
-  "chaos": 5.39
+  "divine": 0.125
  },
  "source": "https://poe.ninja/poe2/economy",
  "failed": [],
  "items": {
   "chaos": {
    "name": "Chaos Orb",
-   "value": 0.1856,
+   "value": 1,
+   "type": "Currency"
+  },
+  "annul": {
+   "name": "Orb of Annulment",
+   "value": 2,
    "type": "Currency"
   },
   "divine": {
    "name": "Divine Orb",
-   "value": 1,
+   "value": 8,
    "type": "Currency"
   },
-  "exalted": {
-   "name": "Exalted Orb",
-   "value": 0.01,
+  "greater-exalted-orb": {
+   "name": "Greater Exalted Orb",
+   "value": 5,
    "type": "Currency"
   },
-  "preserved-cranium": {
-   "name": "Preserved Cranium",
-   "value": 7,
-   "type": "Abyss"
+  "ancient-crisis-fragment": {
+   "name": "Ancient Crisis Fragment",
+   "value": 80,
+   "type": "Fragments"
   },
-  "preserved-collarbone": {
-   "name": "Preserved Collarbone",
-   "value": 0.5,
-   "type": "Abyss"
+  "faded-crisis-fragment": {
+   "name": "Faded Crisis Fragment",
+   "value": 53.33,
+   "type": "Fragments"
   },
-  "omen-of-abyssal-echoes": {
-   "name": "Omen of Abyssal Echoes",
-   "value": 0.7424,
+  "omen-of-putrefaction": {
+   "name": "Omen of Putrefaction",
+   "value": 3,
    "type": "Ritual"
   },
   "thaumaturgic-flux-20": {
    "name": "Thaumaturgic Flux (Level 20)",
-   "value": 10,
+   "value": 80,
    "type": "Expedition"
-  },
-  "breachstone": {
-   "name": "Breachstone",
-   "value": 5,
-   "type": "Breach"
   },
   "celestial-alloy": {
    "name": "Celestial Alloy",
-   "value": 21,
+   "value": 168,
    "type": "Verisium"
   }
  }
