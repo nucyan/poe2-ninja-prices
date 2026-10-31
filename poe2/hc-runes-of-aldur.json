@@ -2,69 +2,59 @@
  "format": "poe2-ninja-prices",
  "formatVersion": 1,
  "league": "HC Runes of Aldur",
- "fetchedAt": "2026-10-31T05:49:19.497Z",
- "baseCurrency": "chaos",
+ "fetchedAt": "2026-10-31T12:38:32.802Z",
+ "baseCurrency": "divine",
  "rates": {
-  "exalted": 28.88,
-  "divine": 0.125
+  "exalted": 100,
+  "chaos": 5.39
  },
  "source": "https://poe.ninja/poe2/economy",
  "failed": [],
  "items": {
   "chaos": {
    "name": "Chaos Orb",
-   "value": 1,
+   "value": 0.1856,
    "type": "Currency"
   },
   "divine": {
    "name": "Divine Orb",
-   "value": 8,
+   "value": 1,
    "type": "Currency"
   },
   "exalted": {
    "name": "Exalted Orb",
-   "value": 0.03463,
+   "value": 0.01,
    "type": "Currency"
   },
-  "greater-jewellers-orb": {
-   "name": "Greater Jeweller's Orb",
-   "value": 0.1039,
-   "type": "Currency"
-  },
-  "lesser-jewellers-orb": {
-   "name": "Lesser Jeweller's Orb",
-   "value": 0.03463,
-   "type": "Currency"
-  },
-  "perfect-jewellers-orb": {
-   "name": "Perfect Jeweller's Orb",
-   "value": 3.46,
-   "type": "Currency"
-  },
-  "gnawed-rib": {
-   "name": "Gnawed Rib",
-   "value": 0.08658,
+  "preserved-cranium": {
+   "name": "Preserved Cranium",
+   "value": 7,
    "type": "Abyss"
   },
-  "greater-essence-of-ruin": {
-   "name": "Greater Essence of Ruin",
-   "value": 0.2424,
-   "type": "Essences"
+  "preserved-collarbone": {
+   "name": "Preserved Collarbone",
+   "value": 0.5,
+   "type": "Abyss"
   },
-  "greater-essence-of-abrasion": {
-   "name": "Greater Essence of Abrasion",
-   "value": 0.2424,
-   "type": "Essences"
+  "omen-of-abyssal-echoes": {
+   "name": "Omen of Abyssal Echoes",
+   "value": 0.7424,
+   "type": "Ritual"
   },
-  "soul-core-of-tacati": {
-   "name": "Soul Core of Tacati",
-   "value": 2.7,
-   "type": "SoulCores"
+  "thaumaturgic-flux-20": {
+   "name": "Thaumaturgic Flux (Level 20)",
+   "value": 10,
+   "type": "Expedition"
   },
   "breachstone": {
    "name": "Breachstone",
-   "value": 40,
+   "value": 5,
    "type": "Breach"
+  },
+  "celestial-alloy": {
+   "name": "Celestial Alloy",
+   "value": 21,
+   "type": "Verisium"
   }
  }
 }
