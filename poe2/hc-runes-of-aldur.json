@@ -2,79 +2,33 @@
  "format": "poe2-ninja-prices",
  "formatVersion": 1,
  "league": "HC Runes of Aldur",
- "fetchedAt": "2026-11-01T01:14:42.306Z",
+ "fetchedAt": "2026-11-01T07:38:25.091Z",
  "baseCurrency": "chaos",
  "rates": {
-  "exalted": 25,
   "divine": 0.1818
  },
  "source": "https://poe.ninja/poe2/economy",
  "failed": [],
  "items": {
-  "chaos": {
-   "name": "Chaos Orb",
-   "value": 1,
-   "type": "Currency"
-  },
-  "annul": {
-   "name": "Orb of Annulment",
-   "value": 2,
-   "type": "Currency"
-  },
   "divine": {
    "name": "Divine Orb",
    "value": 5.5,
    "type": "Currency"
   },
-  "exalted": {
-   "name": "Exalted Orb",
-   "value": 0.04,
-   "type": "Currency"
-  },
   "perfect-jewellers-orb": {
    "name": "Perfect Jeweller's Orb",
-   "value": 4,
+   "value": 15.95,
    "type": "Currency"
   },
-  "scrap": {
-   "name": "Armourer's Scrap",
-   "value": 0.004,
+  "chaos": {
+   "name": "Chaos Orb",
+   "value": 1,
    "type": "Currency"
-  },
-  "greater-jewellers-orb": {
-   "name": "Greater Jeweller's Orb",
-   "value": 1.2,
-   "type": "Currency"
-  },
-  "vaal": {
-   "name": "Vaal Orb",
-   "value": 0.1,
-   "type": "Currency"
-  },
-  "kulemaks-invitation": {
-   "name": "Kulemak's Invitation",
-   "value": 27.5,
-   "type": "Fragments"
-  },
-  "omen-of-abyssal-echoes": {
-   "name": "Omen of Abyssal Echoes",
-   "value": 2,
-   "type": "Ritual"
   },
   "omen-of-resurgence": {
    "name": "Omen of Resurgence",
    "value": 2,
    "type": "Ritual"
-  },
-  "chilling-flux": {
-   "name": "Chilling Flux",
-   "value": 5.5,
-   "type": "Expedition"
-  },
-  "uhtreds-crest-of-the-chalice": {
-   "name": "Uhtred's Crest of the Chalice",
-   "value": 5.5,
-   "type": "Verisium"
   }
  }
 }
