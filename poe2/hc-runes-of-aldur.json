@@ -2,33 +2,64 @@
  "format": "poe2-ninja-prices",
  "formatVersion": 1,
  "league": "HC Runes of Aldur",
- "fetchedAt": "2026-11-01T07:38:25.091Z",
- "baseCurrency": "chaos",
+ "fetchedAt": "2026-11-01T15:14:31.686Z",
+ "baseCurrency": "divine",
  "rates": {
-  "divine": 0.1818
+  "exalted": 101,
+  "chaos": 8
  },
  "source": "https://poe.ninja/poe2/economy",
  "failed": [],
  "items": {
-  "divine": {
-   "name": "Divine Orb",
-   "value": 5.5,
-   "type": "Currency"
-  },
-  "perfect-jewellers-orb": {
-   "name": "Perfect Jeweller's Orb",
-   "value": 15.95,
-   "type": "Currency"
-  },
   "chaos": {
    "name": "Chaos Orb",
+   "value": 0.125,
+   "type": "Currency"
+  },
+  "divine": {
+   "name": "Divine Orb",
    "value": 1,
    "type": "Currency"
   },
-  "omen-of-resurgence": {
-   "name": "Omen of Resurgence",
-   "value": 2,
+  "exalted": {
+   "name": "Exalted Orb",
+   "value": 0.009901,
+   "type": "Currency"
+  },
+  "kulemaks-invitation": {
+   "name": "Kulemak's Invitation",
+   "value": 6,
+   "type": "Fragments"
+  },
+  "preserved-rib": {
+   "name": "Preserved Rib",
+   "value": 0.2,
+   "type": "Abyss"
+  },
+  "passion-of-aldur": {
+   "name": "Passion of Aldur",
+   "value": 2.5,
+   "type": "Runes"
+  },
+  "omen-of-abyssal-echoes": {
+   "name": "Omen of Abyssal Echoes",
+   "value": 1,
    "type": "Ritual"
+  },
+  "omen-of-dextral-exaltation": {
+   "name": "Omen of Dextral Exaltation",
+   "value": 0.7673,
+   "type": "Ritual"
+  },
+  "omen-of-sinistral-exaltation": {
+   "name": "Omen of Sinistral Exaltation",
+   "value": 0.5941,
+   "type": "Ritual"
+  },
+  "blazing-flux": {
+   "name": "Blazing Flux",
+   "value": 0.5,
+   "type": "Expedition"
   }
  }
 }
