@@ -2,7 +2,7 @@
  "format": "poe2-ninja-prices",
  "formatVersion": 1,
  "league": "HC Runes of Aldur",
- "fetchedAt": "2026-11-01T19:46:15.918Z",
+ "fetchedAt": "2026-11-01T23:38:46.610Z",
  "baseCurrency": "divine",
  "rates": {
   "exalted": 102,
@@ -21,9 +21,14 @@
    "value": 1,
    "type": "Currency"
   },
-  "exalted": {
-   "name": "Exalted Orb",
-   "value": 0.009804,
+  "fracturing-orb": {
+   "name": "Fracturing Orb",
+   "value": 25,
+   "type": "Currency"
+  },
+  "perfect-exalted-orb": {
+   "name": "Perfect Exalted Orb",
+   "value": 10.29,
    "type": "Currency"
   },
   "perfect-jewellers-orb": {
@@ -31,15 +36,50 @@
    "value": 2,
    "type": "Currency"
   },
-  "kulemaks-invitation": {
-   "name": "Kulemak's Invitation",
-   "value": 6,
-   "type": "Fragments"
+  "exalted": {
+   "name": "Exalted Orb",
+   "value": 0.009804,
+   "type": "Currency"
   },
   "greater-essence-of-thawing": {
    "name": "Greater Essence of Thawing",
    "value": 0.02941,
    "type": "Essences"
+  },
+  "astrids-creativity": {
+   "name": "Astrid's Creativity",
+   "value": 60,
+   "type": "Runes"
+  },
+  "omen-of-abyssal-echoes": {
+   "name": "Omen of Abyssal Echoes",
+   "value": 0.75,
+   "type": "Ritual"
+  },
+  "omen-of-dextral-annulment": {
+   "name": "Omen of Dextral Annulment",
+   "value": 20,
+   "type": "Ritual"
+  },
+  "omen-of-dextral-erasure": {
+   "name": "Omen of Dextral Erasure",
+   "value": 15,
+   "type": "Ritual"
+  },
+  "omen-of-light": {
+   "name": "Omen of Light",
+   "value": 10.6,
+   "type": "Ritual"
+  },
+  "omen-of-whittling": {
+   "name": "Omen of Whittling",
+   "value": 16,
+   "type": "Ritual"
+  },
+  "thaumaturgic-flux-19": {
+   "name": "Thaumaturgic Flux (Level 19)",
+   "value": 1,
+   "type": "Expedition"
   }
  }
 }
