@@ -2,10 +2,11 @@
  "format": "poe2-ninja-prices",
  "formatVersion": 1,
  "league": "HC Runes of Aldur",
- "fetchedAt": "2026-10-31T21:39:17.138Z",
+ "fetchedAt": "2026-11-01T01:14:42.306Z",
  "baseCurrency": "chaos",
  "rates": {
-  "exalted": 25
+  "exalted": 25,
+  "divine": 0.1818
  },
  "source": "https://poe.ninja/poe2/economy",
  "failed": [],
@@ -18,6 +19,11 @@
   "annul": {
    "name": "Orb of Annulment",
    "value": 2,
+   "type": "Currency"
+  },
+  "divine": {
+   "name": "Divine Orb",
+   "value": 5.5,
    "type": "Currency"
   },
   "exalted": {
@@ -35,11 +41,6 @@
    "value": 0.004,
    "type": "Currency"
   },
-  "greater-exalted-orb": {
-   "name": "Greater Exalted Orb",
-   "value": 5,
-   "type": "Currency"
-  },
   "greater-jewellers-orb": {
    "name": "Greater Jeweller's Orb",
    "value": 1.2,
@@ -50,25 +51,30 @@
    "value": 0.1,
    "type": "Currency"
   },
+  "kulemaks-invitation": {
+   "name": "Kulemak's Invitation",
+   "value": 27.5,
+   "type": "Fragments"
+  },
   "omen-of-abyssal-echoes": {
    "name": "Omen of Abyssal Echoes",
    "value": 2,
    "type": "Ritual"
   },
-  "omen-of-bartering": {
-   "name": "Omen of Bartering",
-   "value": 0.36,
-   "type": "Ritual"
-  },
-  "omen-of-chaotic-rarity": {
-   "name": "Omen of Chaotic Rarity",
+  "omen-of-resurgence": {
+   "name": "Omen of Resurgence",
    "value": 2,
    "type": "Ritual"
   },
-  "omen-of-putrefaction": {
-   "name": "Omen of Putrefaction",
-   "value": 3,
-   "type": "Ritual"
+  "chilling-flux": {
+   "name": "Chilling Flux",
+   "value": 5.5,
+   "type": "Expedition"
+  },
+  "uhtreds-crest-of-the-chalice": {
+   "name": "Uhtred's Crest of the Chalice",
+   "value": 5.5,
+   "type": "Verisium"
   }
  }
 }
