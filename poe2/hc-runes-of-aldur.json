@@ -2,18 +2,18 @@
  "format": "poe2-ninja-prices",
  "formatVersion": 1,
  "league": "HC Runes of Aldur",
- "fetchedAt": "2026-11-01T15:14:31.686Z",
+ "fetchedAt": "2026-11-01T19:46:15.918Z",
  "baseCurrency": "divine",
  "rates": {
-  "exalted": 101,
-  "chaos": 8
+  "exalted": 102,
+  "chaos": 6
  },
  "source": "https://poe.ninja/poe2/economy",
  "failed": [],
  "items": {
   "chaos": {
    "name": "Chaos Orb",
-   "value": 0.125,
+   "value": 0.1667,
    "type": "Currency"
   },
   "divine": {
@@ -23,7 +23,12 @@
   },
   "exalted": {
    "name": "Exalted Orb",
-   "value": 0.009901,
+   "value": 0.009804,
+   "type": "Currency"
+  },
+  "perfect-jewellers-orb": {
+   "name": "Perfect Jeweller's Orb",
+   "value": 2,
    "type": "Currency"
   },
   "kulemaks-invitation": {
@@ -31,35 +36,10 @@
    "value": 6,
    "type": "Fragments"
   },
-  "preserved-rib": {
-   "name": "Preserved Rib",
-   "value": 0.2,
-   "type": "Abyss"
-  },
-  "passion-of-aldur": {
-   "name": "Passion of Aldur",
-   "value": 2.5,
-   "type": "Runes"
-  },
-  "omen-of-abyssal-echoes": {
-   "name": "Omen of Abyssal Echoes",
-   "value": 1,
-   "type": "Ritual"
-  },
-  "omen-of-dextral-exaltation": {
-   "name": "Omen of Dextral Exaltation",
-   "value": 0.7673,
-   "type": "Ritual"
-  },
-  "omen-of-sinistral-exaltation": {
-   "name": "Omen of Sinistral Exaltation",
-   "value": 0.5941,
-   "type": "Ritual"
-  },
-  "blazing-flux": {
-   "name": "Blazing Flux",
-   "value": 0.5,
-   "type": "Expedition"
+  "greater-essence-of-thawing": {
+   "name": "Greater Essence of Thawing",
+   "value": 0.02941,
+   "type": "Essences"
   }
  }
 }
