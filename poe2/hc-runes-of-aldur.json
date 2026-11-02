@@ -2,84 +2,63 @@
  "format": "poe2-ninja-prices",
  "formatVersion": 1,
  "league": "HC Runes of Aldur",
- "fetchedAt": "2026-11-01T23:38:46.610Z",
- "baseCurrency": "divine",
+ "fetchedAt": "2026-11-02T06:13:34.728Z",
+ "baseCurrency": "chaos",
  "rates": {
-  "exalted": 102,
-  "chaos": 6
+  "divine": 0.1667
  },
  "source": "https://poe.ninja/poe2/economy",
  "failed": [],
  "items": {
   "chaos": {
    "name": "Chaos Orb",
-   "value": 0.1667,
+   "value": 1,
    "type": "Currency"
   },
   "divine": {
    "name": "Divine Orb",
-   "value": 1,
-   "type": "Currency"
-  },
-  "fracturing-orb": {
-   "name": "Fracturing Orb",
-   "value": 25,
+   "value": 6,
    "type": "Currency"
   },
   "perfect-exalted-orb": {
    "name": "Perfect Exalted Orb",
-   "value": 10.29,
+   "value": 66,
    "type": "Currency"
   },
-  "perfect-jewellers-orb": {
-   "name": "Perfect Jeweller's Orb",
-   "value": 2,
+  "fracturing-orb": {
+   "name": "Fracturing Orb",
+   "value": 150,
    "type": "Currency"
-  },
-  "exalted": {
-   "name": "Exalted Orb",
-   "value": 0.009804,
-   "type": "Currency"
-  },
-  "greater-essence-of-thawing": {
-   "name": "Greater Essence of Thawing",
-   "value": 0.02941,
-   "type": "Essences"
   },
   "astrids-creativity": {
    "name": "Astrid's Creativity",
-   "value": 60,
+   "value": 360,
    "type": "Runes"
-  },
-  "omen-of-abyssal-echoes": {
-   "name": "Omen of Abyssal Echoes",
-   "value": 0.75,
-   "type": "Ritual"
   },
   "omen-of-dextral-annulment": {
    "name": "Omen of Dextral Annulment",
-   "value": 20,
+   "value": 180,
    "type": "Ritual"
   },
   "omen-of-dextral-erasure": {
    "name": "Omen of Dextral Erasure",
-   "value": 15,
-   "type": "Ritual"
-  },
-  "omen-of-light": {
-   "name": "Omen of Light",
-   "value": 10.6,
+   "value": 120,
    "type": "Ritual"
   },
   "omen-of-whittling": {
    "name": "Omen of Whittling",
-   "value": 16,
+   "value": 108,
    "type": "Ritual"
   },
-  "thaumaturgic-flux-19": {
-   "name": "Thaumaturgic Flux (Level 19)",
-   "value": 1,
-   "type": "Expedition"
+  "omen-of-abyssal-echoes": {
+   "name": "Omen of Abyssal Echoes",
+   "value": 4.5,
+   "type": "Ritual"
+  },
+  "omen-of-light": {
+   "name": "Omen of Light",
+   "value": 63.6,
+   "type": "Ritual"
   }
  }
 }
