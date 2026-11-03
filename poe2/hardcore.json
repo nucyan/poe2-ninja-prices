@@ -2,16 +2,34 @@
  "format": "poe2-ninja-prices",
  "formatVersion": 1,
  "league": "Hardcore",
- "fetchedAt": "2026-11-03T15:13:19.253Z",
+ "fetchedAt": "2026-11-03T21:03:59.979Z",
  "baseCurrency": "exalted",
- "rates": {},
+ "rates": {
+  "divine": 0.01111,
+  "chaos": 0.05
+ },
  "source": "https://poe.ninja/poe2/economy",
  "failed": [],
  "items": {
-  "regal": {
-   "name": "Regal Orb",
-   "value": 3,
+  "chaos": {
+   "name": "Chaos Orb",
+   "value": 20,
    "type": "Currency"
+  },
+  "exalted": {
+   "name": "Exalted Orb",
+   "value": 1,
+   "type": "Currency"
+  },
+  "divine": {
+   "name": "Divine Orb",
+   "value": 90,
+   "type": "Currency"
+  },
+  "body-rune": {
+   "name": "Body Rune",
+   "value": 2,
+   "type": "Runes"
   }
  }
 }
