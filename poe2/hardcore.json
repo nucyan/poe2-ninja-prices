@@ -2,15 +2,25 @@
  "format": "poe2-ninja-prices",
  "formatVersion": 1,
  "league": "Hardcore",
- "fetchedAt": "2026-11-06T02:30:13.750Z",
+ "fetchedAt": "2026-11-06T10:58:16.461Z",
  "baseCurrency": "exalted",
  "rates": {},
  "source": "https://poe.ninja/poe2/economy",
  "failed": [],
  "items": {
-  "artificers": {
-   "name": "Artificer's Orb",
-   "value": 0.5,
+  "lesser-jewellers-orb": {
+   "name": "Lesser Jeweller's Orb",
+   "value": 1,
+   "type": "Currency"
+  },
+  "gcp": {
+   "name": "Gemcutter's Prism",
+   "value": 6,
+   "type": "Currency"
+  },
+  "vaal": {
+   "name": "Vaal Orb",
+   "value": 8,
    "type": "Currency"
   }
  }

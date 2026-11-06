@@ -2,7 +2,7 @@
  "format": "poe2-ninja-prices",
  "formatVersion": 1,
  "league": "HC Runes of Aldur",
- "fetchedAt": "2026-11-06T02:30:13.750Z",
+ "fetchedAt": "2026-11-06T10:58:16.461Z",
  "baseCurrency": "chaos",
  "rates": {
   "divine": 0.2857
@@ -15,20 +15,50 @@
    "value": 1,
    "type": "Currency"
   },
+  "annul": {
+   "name": "Orb of Annulment",
+   "value": 2,
+   "type": "Currency"
+  },
   "divine": {
    "name": "Divine Orb",
    "value": 3.5,
    "type": "Currency"
   },
-  "soul-core-of-citaqualotl": {
-   "name": "Soul Core of Citaqualotl",
-   "value": 1,
-   "type": "SoulCores"
+  "perfect-exalted-orb": {
+   "name": "Perfect Exalted Orb",
+   "value": 35,
+   "type": "Currency"
   },
-  "masterwork-rune": {
-   "name": "Masterwork Rune",
-   "value": 17.5,
-   "type": "Runes"
+  "ancient-rib": {
+   "name": "Ancient Rib",
+   "value": 35,
+   "type": "Abyss"
+  },
+  "preserved-collarbone": {
+   "name": "Preserved Collarbone",
+   "value": 6,
+   "type": "Abyss"
+  },
+  "essence-of-the-abyss": {
+   "name": "Essence of the Abyss",
+   "value": 1.17,
+   "type": "Essences"
+  },
+  "omen-of-abyssal-echoes": {
+   "name": "Omen of Abyssal Echoes",
+   "value": 4,
+   "type": "Ritual"
+  },
+  "omen-of-sinistral-erasure": {
+   "name": "Omen of Sinistral Erasure",
+   "value": 84,
+   "type": "Ritual"
+  },
+  "refined-necrotic-catalyst": {
+   "name": "Refined Necrotic Catalyst",
+   "value": 3.5,
+   "type": "Breach"
   }
  }
 }
