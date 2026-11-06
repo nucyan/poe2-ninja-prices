@@ -2,16 +2,33 @@
  "format": "poe2-ninja-prices",
  "formatVersion": 1,
  "league": "HC Runes of Aldur",
- "fetchedAt": "2026-11-05T22:02:13.186Z",
- "baseCurrency": "exalted",
- "rates": {},
+ "fetchedAt": "2026-11-06T02:30:13.750Z",
+ "baseCurrency": "chaos",
+ "rates": {
+  "divine": 0.2857
+ },
  "source": "https://poe.ninja/poe2/economy",
  "failed": [],
  "items": {
-  "vaal": {
-   "name": "Vaal Orb",
-   "value": 6,
+  "chaos": {
+   "name": "Chaos Orb",
+   "value": 1,
    "type": "Currency"
+  },
+  "divine": {
+   "name": "Divine Orb",
+   "value": 3.5,
+   "type": "Currency"
+  },
+  "soul-core-of-citaqualotl": {
+   "name": "Soul Core of Citaqualotl",
+   "value": 1,
+   "type": "SoulCores"
+  },
+  "masterwork-rune": {
+   "name": "Masterwork Rune",
+   "value": 17.5,
+   "type": "Runes"
   }
  }
 }
