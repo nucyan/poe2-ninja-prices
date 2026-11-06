@@ -2,26 +2,33 @@
  "format": "poe2-ninja-prices",
  "formatVersion": 1,
  "league": "Hardcore",
- "fetchedAt": "2026-11-06T10:58:16.461Z",
- "baseCurrency": "exalted",
- "rates": {},
+ "fetchedAt": "2026-11-06T18:01:01.103Z",
+ "baseCurrency": "chaos",
+ "rates": {
+  "exalted": 20
+ },
  "source": "https://poe.ninja/poe2/economy",
  "failed": [],
  "items": {
-  "lesser-jewellers-orb": {
-   "name": "Lesser Jeweller's Orb",
+  "annul": {
+   "name": "Orb of Annulment",
+   "value": 0.15,
+   "type": "Currency"
+  },
+  "exalted": {
+   "name": "Exalted Orb",
+   "value": 0.05,
+   "type": "Currency"
+  },
+  "chaos": {
+   "name": "Chaos Orb",
    "value": 1,
    "type": "Currency"
   },
-  "gcp": {
-   "name": "Gemcutter's Prism",
-   "value": 6,
-   "type": "Currency"
-  },
-  "vaal": {
-   "name": "Vaal Orb",
-   "value": 8,
-   "type": "Currency"
+  "lesser-desert-rune": {
+   "name": "Lesser Desert Rune",
+   "value": 0.05,
+   "type": "Runes"
   }
  }
 }
