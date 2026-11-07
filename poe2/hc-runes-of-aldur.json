@@ -2,21 +2,48 @@
  "format": "poe2-ninja-prices",
  "formatVersion": 1,
  "league": "HC Runes of Aldur",
- "fetchedAt": "2026-11-07T10:17:44.211Z",
- "baseCurrency": "exalted",
- "rates": {},
+ "fetchedAt": "2026-11-07T16:51:58.316Z",
+ "baseCurrency": "chaos",
+ "rates": {
+  "divine": 0.1429
+ },
  "source": "https://poe.ninja/poe2/economy",
  "failed": [],
  "items": {
-  "vaal": {
-   "name": "Vaal Orb",
-   "value": 6,
+  "chaos": {
+   "name": "Chaos Orb",
+   "value": 1,
    "type": "Currency"
   },
-  "preserved-jawbone": {
-   "name": "Preserved Jawbone",
-   "value": 9,
-   "type": "Abyss"
+  "annul": {
+   "name": "Orb of Annulment",
+   "value": 2,
+   "type": "Currency"
+  },
+  "divine": {
+   "name": "Divine Orb",
+   "value": 7,
+   "type": "Currency"
+  },
+  "lesser-jewellers-orb": {
+   "name": "Lesser Jeweller's Orb",
+   "value": 0.5,
+   "type": "Currency"
+  },
+  "kopecs-orb-of-sacrifice": {
+   "name": "Kopec's Orb of Sacrifice",
+   "value": 21,
+   "type": "Currency"
+  },
+  "greater-chaos-orb": {
+   "name": "Greater Chaos Orb",
+   "value": 2,
+   "type": "Currency"
+  },
+  "omen-of-whittling": {
+   "name": "Omen of Whittling",
+   "value": 140,
+   "type": "Ritual"
   }
  }
 }
