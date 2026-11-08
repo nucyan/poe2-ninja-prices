@@ -2,58 +2,42 @@
  "format": "poe2-ninja-prices",
  "formatVersion": 1,
  "league": "HC Runes of Aldur",
- "fetchedAt": "2026-11-08T07:25:23.608Z",
- "baseCurrency": "divine",
+ "fetchedAt": "2026-11-08T15:16:26.914Z",
+ "baseCurrency": "chaos",
  "rates": {
-  "exalted": 120,
-  "chaos": 4
+  "divine": 0.1429
  },
  "source": "https://poe.ninja/poe2/economy",
  "failed": [],
  "items": {
   "chaos": {
    "name": "Chaos Orb",
-   "value": 0.25,
+   "value": 1,
+   "type": "Currency"
+  },
+  "annul": {
+   "name": "Orb of Annulment",
+   "value": 2,
    "type": "Currency"
   },
   "divine": {
    "name": "Divine Orb",
-   "value": 1,
+   "value": 7,
    "type": "Currency"
   },
-  "regal": {
-   "name": "Regal Orb",
-   "value": 0.05,
-   "type": "Currency"
+  "kulemaks-invitation": {
+   "name": "Kulemak's Invitation",
+   "value": 42,
+   "type": "Fragments"
   },
-  "exalted": {
-   "name": "Exalted Orb",
-   "value": 0.008333,
-   "type": "Currency"
+  "greater-iron-rune": {
+   "name": "Greater Iron Rune",
+   "value": 0.4667,
+   "type": "Runes"
   },
-  "greater-chaos-orb": {
-   "name": "Greater Chaos Orb",
-   "value": 0.5,
-   "type": "Currency"
-  },
-  "preserved-collarbone": {
-   "name": "Preserved Collarbone",
-   "value": 1.5,
-   "type": "Abyss"
-  },
-  "essence-of-the-abyss": {
-   "name": "Essence of the Abyss",
-   "value": 1,
-   "type": "Essences"
-  },
-  "omen-of-abyssal-echoes": {
-   "name": "Omen of Abyssal Echoes",
-   "value": 1,
-   "type": "Ritual"
-  },
-  "thaumaturgic-flux-15": {
-   "name": "Thaumaturgic Flux (Level 15)",
-   "value": 0.5,
+  "blazing-flux": {
+   "name": "Blazing Flux",
+   "value": 3.5,
    "type": "Expedition"
   }
  }
