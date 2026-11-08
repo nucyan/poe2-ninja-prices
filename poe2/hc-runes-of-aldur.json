@@ -2,15 +2,25 @@
  "format": "poe2-ninja-prices",
  "formatVersion": 1,
  "league": "HC Runes of Aldur",
- "fetchedAt": "2026-11-08T19:46:25.948Z",
+ "fetchedAt": "2026-11-08T23:45:45.438Z",
  "baseCurrency": "divine",
  "rates": {
-  "exalted": 135,
+  "exalted": 150,
   "chaos": 2.25
  },
  "source": "https://poe.ninja/poe2/economy",
  "failed": [],
  "items": {
+  "alch": {
+   "name": "Orb of Alchemy",
+   "value": 0.03333,
+   "type": "Currency"
+  },
+  "exalted": {
+   "name": "Exalted Orb",
+   "value": 0.006667,
+   "type": "Currency"
+  },
   "chaos": {
    "name": "Chaos Orb",
    "value": 0.4444,
@@ -24,11 +34,6 @@
   "annul": {
    "name": "Orb of Annulment",
    "value": 2,
-   "type": "Currency"
-  },
-  "exalted": {
-   "name": "Exalted Orb",
-   "value": 0.007407,
    "type": "Currency"
   },
   "perfect-chaos-orb": {
@@ -46,19 +51,34 @@
    "value": 1.67,
    "type": "Currency"
   },
-  "kulemaks-invitation": {
-   "name": "Kulemak's Invitation",
-   "value": 6,
-   "type": "Fragments"
+  "essence-of-the-abyss": {
+   "name": "Essence of the Abyss",
+   "value": 1,
+   "type": "Essences"
+  },
+  "farruls-rune-of-the-chase": {
+   "name": "Farrul's Rune of the Chase",
+   "value": 3,
+   "type": "Runes"
   },
   "rune-of-renown": {
    "name": "Rune of Renown",
    "value": 5,
    "type": "Runes"
   },
+  "omen-of-abyssal-echoes": {
+   "name": "Omen of Abyssal Echoes",
+   "value": 1,
+   "type": "Ritual"
+  },
   "omen-of-sinistral-exaltation": {
    "name": "Omen of Sinistral Exaltation",
-   "value": 0.4444,
+   "value": 0.4,
+   "type": "Ritual"
+  },
+  "omen-of-the-blackblooded": {
+   "name": "Omen of the Blackblooded",
+   "value": 3,
    "type": "Ritual"
   },
   "omen-of-whittling": {
