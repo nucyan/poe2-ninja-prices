@@ -2,16 +2,22 @@
  "format": "poe2-ninja-prices",
  "formatVersion": 1,
  "league": "HC Runes of Aldur",
- "fetchedAt": "2026-11-08T15:16:26.914Z",
- "baseCurrency": "chaos",
+ "fetchedAt": "2026-11-08T19:46:25.948Z",
+ "baseCurrency": "divine",
  "rates": {
-  "divine": 0.1429
+  "exalted": 135,
+  "chaos": 2.25
  },
  "source": "https://poe.ninja/poe2/economy",
  "failed": [],
  "items": {
   "chaos": {
    "name": "Chaos Orb",
+   "value": 0.4444,
+   "type": "Currency"
+  },
+  "divine": {
+   "name": "Divine Orb",
    "value": 1,
    "type": "Currency"
   },
@@ -20,25 +26,45 @@
    "value": 2,
    "type": "Currency"
   },
-  "divine": {
-   "name": "Divine Orb",
-   "value": 7,
+  "exalted": {
+   "name": "Exalted Orb",
+   "value": 0.007407,
+   "type": "Currency"
+  },
+  "perfect-chaos-orb": {
+   "name": "Perfect Chaos Orb",
+   "value": 34,
+   "type": "Currency"
+  },
+  "perfect-exalted-orb": {
+   "name": "Perfect Exalted Orb",
+   "value": 11,
+   "type": "Currency"
+  },
+  "greater-chaos-orb": {
+   "name": "Greater Chaos Orb",
+   "value": 1.67,
    "type": "Currency"
   },
   "kulemaks-invitation": {
    "name": "Kulemak's Invitation",
-   "value": 42,
+   "value": 6,
    "type": "Fragments"
   },
-  "greater-iron-rune": {
-   "name": "Greater Iron Rune",
-   "value": 0.4667,
+  "rune-of-renown": {
+   "name": "Rune of Renown",
+   "value": 5,
    "type": "Runes"
   },
-  "blazing-flux": {
-   "name": "Blazing Flux",
-   "value": 3.5,
-   "type": "Expedition"
+  "omen-of-sinistral-exaltation": {
+   "name": "Omen of Sinistral Exaltation",
+   "value": 0.4444,
+   "type": "Ritual"
+  },
+  "omen-of-whittling": {
+   "name": "Omen of Whittling",
+   "value": 20,
+   "type": "Ritual"
   }
  }
 }
