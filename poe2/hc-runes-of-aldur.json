@@ -2,53 +2,59 @@
  "format": "poe2-ninja-prices",
  "formatVersion": 1,
  "league": "HC Runes of Aldur",
- "fetchedAt": "2026-11-08T00:41:06.302Z",
- "baseCurrency": "chaos",
+ "fetchedAt": "2026-11-08T07:25:23.608Z",
+ "baseCurrency": "divine",
  "rates": {
-  "divine": 0.1429
+  "exalted": 120,
+  "chaos": 4
  },
  "source": "https://poe.ninja/poe2/economy",
  "failed": [],
  "items": {
   "chaos": {
    "name": "Chaos Orb",
-   "value": 1,
+   "value": 0.25,
    "type": "Currency"
   },
   "divine": {
    "name": "Divine Orb",
-   "value": 7,
+   "value": 1,
    "type": "Currency"
   },
-  "preserved-cranium": {
-   "name": "Preserved Cranium",
-   "value": 10,
+  "regal": {
+   "name": "Regal Orb",
+   "value": 0.05,
+   "type": "Currency"
+  },
+  "exalted": {
+   "name": "Exalted Orb",
+   "value": 0.008333,
+   "type": "Currency"
+  },
+  "greater-chaos-orb": {
+   "name": "Greater Chaos Orb",
+   "value": 0.5,
+   "type": "Currency"
+  },
+  "preserved-collarbone": {
+   "name": "Preserved Collarbone",
+   "value": 1.5,
    "type": "Abyss"
   },
   "essence-of-the-abyss": {
    "name": "Essence of the Abyss",
-   "value": 3.5,
+   "value": 1,
    "type": "Essences"
   },
   "omen-of-abyssal-echoes": {
    "name": "Omen of Abyssal Echoes",
-   "value": 4,
+   "value": 1,
    "type": "Ritual"
   },
   "thaumaturgic-flux-15": {
    "name": "Thaumaturgic Flux (Level 15)",
-   "value": 2,
+   "value": 0.5,
    "type": "Expedition"
-  },
-  "liquid-despair": {
-   "name": "Liquid Despair",
-   "value": 1,
-   "type": "Delirium"
-  },
-  "concentrated-liquid-suffering": {
-   "name": "Concentrated Liquid Suffering",
-   "value": 21,
-   "type": "Delirium"
   }
  }
 }
