@@ -2,7 +2,7 @@
  "format": "poe2-ninja-prices",
  "formatVersion": 1,
  "league": "HC Runes of Aldur",
- "fetchedAt": "2026-11-07T20:55:27.029Z",
+ "fetchedAt": "2026-11-08T00:41:06.302Z",
  "baseCurrency": "chaos",
  "rates": {
   "divine": 0.1429
@@ -15,30 +15,40 @@
    "value": 1,
    "type": "Currency"
   },
-  "annul": {
-   "name": "Orb of Annulment",
-   "value": 2,
-   "type": "Currency"
-  },
   "divine": {
    "name": "Divine Orb",
    "value": 7,
    "type": "Currency"
   },
-  "lesser-jewellers-orb": {
-   "name": "Lesser Jeweller's Orb",
-   "value": 0.5,
-   "type": "Currency"
+  "preserved-cranium": {
+   "name": "Preserved Cranium",
+   "value": 10,
+   "type": "Abyss"
   },
-  "greater-chaos-orb": {
-   "name": "Greater Chaos Orb",
-   "value": 2,
-   "type": "Currency"
+  "essence-of-the-abyss": {
+   "name": "Essence of the Abyss",
+   "value": 3.5,
+   "type": "Essences"
   },
-  "omen-of-whittling": {
-   "name": "Omen of Whittling",
-   "value": 140,
+  "omen-of-abyssal-echoes": {
+   "name": "Omen of Abyssal Echoes",
+   "value": 4,
    "type": "Ritual"
+  },
+  "thaumaturgic-flux-15": {
+   "name": "Thaumaturgic Flux (Level 15)",
+   "value": 2,
+   "type": "Expedition"
+  },
+  "liquid-despair": {
+   "name": "Liquid Despair",
+   "value": 1,
+   "type": "Delirium"
+  },
+  "concentrated-liquid-suffering": {
+   "name": "Concentrated Liquid Suffering",
+   "value": 21,
+   "type": "Delirium"
   }
  }
 }
