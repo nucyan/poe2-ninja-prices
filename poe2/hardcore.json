@@ -2,33 +2,23 @@
  "format": "poe2-ninja-prices",
  "formatVersion": 1,
  "league": "Hardcore",
- "fetchedAt": "2026-11-08T23:45:45.438Z",
- "baseCurrency": "divine",
+ "fetchedAt": "2026-11-09T06:41:04.494Z",
+ "baseCurrency": "chaos",
  "rates": {
-  "exalted": 90
+  "exalted": 20
  },
  "source": "https://poe.ninja/poe2/economy",
  "failed": [],
  "items": {
-  "divine": {
-   "name": "Divine Orb",
+  "chaos": {
+   "name": "Chaos Orb",
    "value": 1,
    "type": "Currency"
   },
   "exalted": {
    "name": "Exalted Orb",
-   "value": 0.01111,
+   "value": 0.05,
    "type": "Currency"
-  },
-  "lesser-jewellers-orb": {
-   "name": "Lesser Jeweller's Orb",
-   "value": 0.01111,
-   "type": "Currency"
-  },
-  "omen-of-abyssal-echoes": {
-   "name": "Omen of Abyssal Echoes",
-   "value": 10,
-   "type": "Ritual"
   }
  }
 }
