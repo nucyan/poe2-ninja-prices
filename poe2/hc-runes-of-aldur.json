@@ -2,21 +2,33 @@
  "format": "poe2-ninja-prices",
  "formatVersion": 1,
  "league": "HC Runes of Aldur",
- "fetchedAt": "2026-11-09T06:41:04.494Z",
- "baseCurrency": "exalted",
- "rates": {},
+ "fetchedAt": "2026-11-09T17:34:34.663Z",
+ "baseCurrency": "chaos",
+ "rates": {
+  "divine": 0.1429
+ },
  "source": "https://poe.ninja/poe2/economy",
  "failed": [],
  "items": {
-  "lesser-jewellers-orb": {
-   "name": "Lesser Jeweller's Orb",
+  "chaos": {
+   "name": "Chaos Orb",
+   "value": 1,
+   "type": "Currency"
+  },
+  "divine": {
+   "name": "Divine Orb",
+   "value": 7,
+   "type": "Currency"
+  },
+  "greater-chaos-orb": {
+   "name": "Greater Chaos Orb",
    "value": 2,
    "type": "Currency"
   },
-  "gcp": {
-   "name": "Gemcutter's Prism",
-   "value": 36,
-   "type": "Currency"
+  "preserved-collarbone": {
+   "name": "Preserved Collarbone",
+   "value": 3.5,
+   "type": "Abyss"
   }
  }
 }

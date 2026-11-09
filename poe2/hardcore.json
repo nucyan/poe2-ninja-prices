@@ -2,23 +2,41 @@
  "format": "poe2-ninja-prices",
  "formatVersion": 1,
  "league": "Hardcore",
- "fetchedAt": "2026-11-09T06:41:04.494Z",
- "baseCurrency": "chaos",
- "rates": {
-  "exalted": 20
- },
+ "fetchedAt": "2026-11-09T17:34:34.663Z",
+ "baseCurrency": "exalted",
+ "rates": {},
  "source": "https://poe.ninja/poe2/economy",
  "failed": [],
  "items": {
-  "chaos": {
-   "name": "Chaos Orb",
-   "value": 1,
-   "type": "Currency"
+  "eshs-catalyst": {
+   "name": "Esh's Catalyst",
+   "value": 2,
+   "type": "Breach"
   },
-  "exalted": {
-   "name": "Exalted Orb",
-   "value": 0.05,
-   "type": "Currency"
+  "flesh-catalyst": {
+   "name": "Flesh Catalyst",
+   "value": 2,
+   "type": "Breach"
+  },
+  "xophs-catalyst": {
+   "name": "Xoph's Catalyst",
+   "value": 2,
+   "type": "Breach"
+  },
+  "sibilant-catalyst": {
+   "name": "Sibilant Catalyst",
+   "value": 9.68,
+   "type": "Breach"
+  },
+  "tuls-catalyst": {
+   "name": "Tul's Catalyst",
+   "value": 2,
+   "type": "Breach"
+  },
+  "uul-netols-catalyst": {
+   "name": "Uul-Netol's Catalyst",
+   "value": 2,
+   "type": "Breach"
   }
  }
 }
