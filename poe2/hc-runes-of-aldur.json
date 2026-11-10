@@ -2,18 +2,23 @@
  "format": "poe2-ninja-prices",
  "formatVersion": 1,
  "league": "HC Runes of Aldur",
- "fetchedAt": "2026-11-10T17:53:35.902Z",
+ "fetchedAt": "2026-11-10T23:26:06.335Z",
  "baseCurrency": "divine",
  "rates": {
   "exalted": 120,
-  "chaos": 2.5
+  "chaos": 2
  },
  "source": "https://poe.ninja/poe2/economy",
  "failed": [],
  "items": {
   "chaos": {
    "name": "Chaos Orb",
-   "value": 0.4,
+   "value": 0.5,
+   "type": "Currency"
+  },
+  "annul": {
+   "name": "Orb of Annulment",
+   "value": 1,
    "type": "Currency"
   },
   "divine": {
@@ -21,9 +26,29 @@
    "value": 1,
    "type": "Currency"
   },
+  "fracturing-orb": {
+   "name": "Fracturing Orb",
+   "value": 10,
+   "type": "Currency"
+  },
   "exalted": {
    "name": "Exalted Orb",
    "value": 0.008333,
+   "type": "Currency"
+  },
+  "scrap": {
+   "name": "Armourer's Scrap",
+   "value": 0.0463,
+   "type": "Currency"
+  },
+  "greater-chaos-orb": {
+   "name": "Greater Chaos Orb",
+   "value": 1,
+   "type": "Currency"
+  },
+  "vaal": {
+   "name": "Vaal Orb",
+   "value": 0.03333,
    "type": "Currency"
   },
   "gcp": {
@@ -41,24 +66,44 @@
    "value": 6,
    "type": "Abyss"
   },
-  "soul-core-of-atmohua": {
-   "name": "Soul Core of Atmohua",
-   "value": 2,
-   "type": "SoulCores"
+  "idol-of-maxarius": {
+   "name": "Idol of Maxarius",
+   "value": 5,
+   "type": "Idols"
   },
-  "soul-core-of-cholotl": {
-   "name": "Soul Core of Cholotl",
-   "value": 20,
-   "type": "SoulCores"
+  "idol-of-ralakesh": {
+   "name": "Idol of Ralakesh",
+   "value": 2,
+   "type": "Idols"
+  },
+  "hawk-idol": {
+   "name": "Hawk Idol",
+   "value": 3,
+   "type": "Idols"
+  },
+  "idol-of-grold": {
+   "name": "Idol of Grold",
+   "value": 1,
+   "type": "Idols"
   },
   "primate-idol": {
    "name": "Primate Idol",
    "value": 1,
    "type": "Idols"
   },
-  "transcendent-alloy": {
-   "name": "Transcendent Alloy",
-   "value": 10,
+  "omen-of-sinistral-necromancy": {
+   "name": "Omen of Sinistral Necromancy",
+   "value": 0.2,
+   "type": "Ritual"
+  },
+  "concentrated-liquid-isolation": {
+   "name": "Concentrated Liquid Isolation",
+   "value": 29,
+   "type": "Delirium"
+  },
+  "exceptional-verisium": {
+   "name": "Exceptional Verisium",
+   "value": 6,
    "type": "Verisium"
   }
  }
