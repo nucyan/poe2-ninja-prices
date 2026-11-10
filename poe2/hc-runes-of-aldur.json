@@ -2,14 +2,20 @@
  "format": "poe2-ninja-prices",
  "formatVersion": 1,
  "league": "HC Runes of Aldur",
- "fetchedAt": "2026-11-10T09:55:06.308Z",
+ "fetchedAt": "2026-11-10T17:53:35.902Z",
  "baseCurrency": "divine",
  "rates": {
-  "exalted": 120
+  "exalted": 120,
+  "chaos": 2.5
  },
  "source": "https://poe.ninja/poe2/economy",
  "failed": [],
  "items": {
+  "chaos": {
+   "name": "Chaos Orb",
+   "value": 0.4,
+   "type": "Currency"
+  },
   "divine": {
    "name": "Divine Orb",
    "value": 1,
@@ -19,6 +25,41 @@
    "name": "Exalted Orb",
    "value": 0.008333,
    "type": "Currency"
+  },
+  "gcp": {
+   "name": "Gemcutter's Prism",
+   "value": 0.3,
+   "type": "Currency"
+  },
+  "ancient-rib": {
+   "name": "Ancient Rib",
+   "value": 10,
+   "type": "Abyss"
+  },
+  "ancient-jawbone": {
+   "name": "Ancient Jawbone",
+   "value": 6,
+   "type": "Abyss"
+  },
+  "soul-core-of-atmohua": {
+   "name": "Soul Core of Atmohua",
+   "value": 2,
+   "type": "SoulCores"
+  },
+  "soul-core-of-cholotl": {
+   "name": "Soul Core of Cholotl",
+   "value": 20,
+   "type": "SoulCores"
+  },
+  "primate-idol": {
+   "name": "Primate Idol",
+   "value": 1,
+   "type": "Idols"
+  },
+  "transcendent-alloy": {
+   "name": "Transcendent Alloy",
+   "value": 10,
+   "type": "Verisium"
   }
  }
 }
