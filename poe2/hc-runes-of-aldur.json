@@ -2,10 +2,59 @@
  "format": "poe2-ninja-prices",
  "formatVersion": 1,
  "league": "HC Runes of Aldur",
- "fetchedAt": "2026-11-11T06:31:16.721Z",
+ "fetchedAt": "2026-11-11T15:17:21.355Z",
  "baseCurrency": "divine",
- "rates": {},
+ "rates": {
+  "exalted": 120,
+  "chaos": 2.5
+ },
  "source": "https://poe.ninja/poe2/economy",
  "failed": [],
- "items": {}
+ "items": {
+  "chaos": {
+   "name": "Chaos Orb",
+   "value": 0.3554,
+   "type": "Currency"
+  },
+  "divine": {
+   "name": "Divine Orb",
+   "value": 1,
+   "type": "Currency"
+  },
+  "scrap": {
+   "name": "Armourer's Scrap",
+   "value": 0.02369,
+   "type": "Currency"
+  },
+  "perfect-jewellers-orb": {
+   "name": "Perfect Jeweller's Orb",
+   "value": 12,
+   "type": "Currency"
+  },
+  "artificers": {
+   "name": "Artificer's Orb",
+   "value": 0.04167,
+   "type": "Currency"
+  },
+  "exalted": {
+   "name": "Exalted Orb",
+   "value": 0.008333,
+   "type": "Currency"
+  },
+  "preserved-collarbone": {
+   "name": "Preserved Collarbone",
+   "value": 1.22,
+   "type": "Abyss"
+  },
+  "omen-of-abyssal-echoes": {
+   "name": "Omen of Abyssal Echoes",
+   "value": 1,
+   "type": "Ritual"
+  },
+  "perfect-flux": {
+   "name": "Perfect Flux",
+   "value": 75,
+   "type": "Expedition"
+  }
+ }
 }
