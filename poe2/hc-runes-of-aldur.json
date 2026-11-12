@@ -2,69 +2,49 @@
  "format": "poe2-ninja-prices",
  "formatVersion": 1,
  "league": "HC Runes of Aldur",
- "fetchedAt": "2026-11-11T22:43:06.615Z",
- "baseCurrency": "exalted",
+ "fetchedAt": "2026-11-12T03:49:42.799Z",
+ "baseCurrency": "divine",
  "rates": {
-  "divine": 0.008333,
-  "chaos": 0.007421
+  "exalted": 120,
+  "chaos": 6
  },
  "source": "https://poe.ninja/poe2/economy",
  "failed": [],
  "items": {
   "chaos": {
    "name": "Chaos Orb",
-   "value": 134.8,
-   "type": "Currency"
-  },
-  "annul": {
-   "name": "Orb of Annulment",
-   "value": 269.5,
+   "value": 0.1667,
    "type": "Currency"
   },
   "divine": {
    "name": "Divine Orb",
-   "value": 120,
+   "value": 1,
    "type": "Currency"
   },
   "exalted": {
    "name": "Exalted Orb",
-   "value": 1,
+   "value": 0.008333,
    "type": "Currency"
   },
-  "gcp": {
-   "name": "Gemcutter's Prism",
-   "value": 36,
+  "annul": {
+   "name": "Orb of Annulment",
+   "value": 0.3333,
    "type": "Currency"
+  },
+  "ancient-jawbone": {
+   "name": "Ancient Jawbone",
+   "value": 9,
+   "type": "Abyss"
   },
   "preserved-collarbone": {
    "name": "Preserved Collarbone",
-   "value": 147,
+   "value": 1.22,
    "type": "Abyss"
   },
-  "primate-idol": {
-   "name": "Primate Idol",
-   "value": 120,
-   "type": "Idols"
-  },
-  "boar-idol": {
-   "name": "Boar Idol",
-   "value": 120,
-   "type": "Idols"
-  },
-  "idol-of-yeena": {
-   "name": "Idol of Yeena",
-   "value": 360,
-   "type": "Idols"
-  },
-  "omen-of-dextral-necromancy": {
-   "name": "Omen of Dextral Necromancy",
-   "value": 134.8,
+  "omen-of-abyssal-echoes": {
+   "name": "Omen of Abyssal Echoes",
+   "value": 1,
    "type": "Ritual"
-  },
-  "runic-alloy": {
-   "name": "Runic Alloy",
-   "value": 134.8,
-   "type": "Verisium"
   }
  }
 }
