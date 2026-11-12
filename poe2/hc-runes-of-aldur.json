@@ -2,49 +2,26 @@
  "format": "poe2-ninja-prices",
  "formatVersion": 1,
  "league": "HC Runes of Aldur",
- "fetchedAt": "2026-11-12T03:49:42.799Z",
- "baseCurrency": "divine",
- "rates": {
-  "exalted": 120,
-  "chaos": 6
- },
+ "fetchedAt": "2026-11-12T12:47:25.279Z",
+ "baseCurrency": "exalted",
+ "rates": {},
  "source": "https://poe.ninja/poe2/economy",
  "failed": [],
  "items": {
-  "chaos": {
-   "name": "Chaos Orb",
-   "value": 0.1667,
-   "type": "Currency"
+  "soul-core-of-topotante": {
+   "name": "Soul Core of Topotante",
+   "value": 15,
+   "type": "SoulCores"
   },
-  "divine": {
-   "name": "Divine Orb",
-   "value": 1,
-   "type": "Currency"
+  "soul-core-of-opiloti": {
+   "name": "Soul Core of Opiloti",
+   "value": 15,
+   "type": "SoulCores"
   },
-  "exalted": {
-   "name": "Exalted Orb",
-   "value": 0.008333,
-   "type": "Currency"
-  },
-  "annul": {
-   "name": "Orb of Annulment",
-   "value": 0.3333,
-   "type": "Currency"
-  },
-  "ancient-jawbone": {
-   "name": "Ancient Jawbone",
-   "value": 9,
-   "type": "Abyss"
-  },
-  "preserved-collarbone": {
-   "name": "Preserved Collarbone",
-   "value": 1.22,
-   "type": "Abyss"
-  },
-  "omen-of-abyssal-echoes": {
-   "name": "Omen of Abyssal Echoes",
-   "value": 1,
-   "type": "Ritual"
+  "protective-alloy": {
+   "name": "Protective Alloy",
+   "value": 500,
+   "type": "Verisium"
   }
  }
 }
