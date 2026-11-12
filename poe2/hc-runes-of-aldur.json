@@ -2,25 +2,117 @@
  "format": "poe2-ninja-prices",
  "formatVersion": 1,
  "league": "HC Runes of Aldur",
- "fetchedAt": "2026-11-12T12:47:25.279Z",
- "baseCurrency": "exalted",
- "rates": {},
+ "fetchedAt": "2026-11-12T20:51:26.056Z",
+ "baseCurrency": "chaos",
+ "rates": {
+  "divine": 0.1429
+ },
  "source": "https://poe.ninja/poe2/economy",
  "failed": [],
  "items": {
-  "soul-core-of-topotante": {
-   "name": "Soul Core of Topotante",
-   "value": 15,
-   "type": "SoulCores"
+  "chaos": {
+   "name": "Chaos Orb",
+   "value": 1,
+   "type": "Currency"
   },
-  "soul-core-of-opiloti": {
-   "name": "Soul Core of Opiloti",
-   "value": 15,
-   "type": "SoulCores"
+  "divine": {
+   "name": "Divine Orb",
+   "value": 7,
+   "type": "Currency"
   },
-  "protective-alloy": {
-   "name": "Protective Alloy",
-   "value": 500,
+  "greater-regal-orb": {
+   "name": "Greater Regal Orb",
+   "value": 1,
+   "type": "Currency"
+  },
+  "perfect-jewellers-orb": {
+   "name": "Perfect Jeweller's Orb",
+   "value": 7,
+   "type": "Currency"
+  },
+  "vaal-cultivation-orb": {
+   "name": "Vaal Cultivation Orb",
+   "value": 3.5,
+   "type": "Currency"
+  },
+  "vaal": {
+   "name": "Vaal Orb",
+   "value": 0.2414,
+   "type": "Currency"
+  },
+  "origin-cradle": {
+   "name": "Origin Cradle",
+   "value": 21,
+   "type": "Fragments"
+  },
+  "preserved-rib": {
+   "name": "Preserved Rib",
+   "value": 1.75,
+   "type": "Abyss"
+  },
+  "idol-of-eeshta": {
+   "name": "Idol of Eeshta",
+   "value": 49,
+   "type": "Idols"
+  },
+  "idol-of-ralakesh": {
+   "name": "Idol of Ralakesh",
+   "value": 21,
+   "type": "Idols"
+  },
+  "idol-of-yeena": {
+   "name": "Idol of Yeena",
+   "value": 28,
+   "type": "Idols"
+  },
+  "primate-idol": {
+   "name": "Primate Idol",
+   "value": 7,
+   "type": "Idols"
+  },
+  "wolf-idol": {
+   "name": "Wolf Idol",
+   "value": 21,
+   "type": "Idols"
+  },
+  "fox-idol": {
+   "name": "Fox Idol",
+   "value": 140,
+   "type": "Idols"
+  },
+  "hawk-idol": {
+   "name": "Hawk Idol",
+   "value": 10,
+   "type": "Idols"
+  },
+  "rabbit-idol": {
+   "name": "Rabbit Idol",
+   "value": 175,
+   "type": "Idols"
+  },
+  "omen-of-the-blessed": {
+   "name": "Omen of the Blessed",
+   "value": 10,
+   "type": "Ritual"
+  },
+  "omen-of-whittling": {
+   "name": "Omen of Whittling",
+   "value": 70,
+   "type": "Ritual"
+  },
+  "expedition-logbook": {
+   "name": "Expedition Logbook",
+   "value": 33.25,
+   "type": "Expedition"
+  },
+  "concentrated-liquid-fear": {
+   "name": "Concentrated Liquid Fear",
+   "value": 2,
+   "type": "Delirium"
+  },
+  "runic-alloy": {
+   "name": "Runic Alloy",
+   "value": 1,
    "type": "Verisium"
   }
  }
