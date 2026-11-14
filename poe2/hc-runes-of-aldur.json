@@ -2,30 +2,42 @@
  "format": "poe2-ninja-prices",
  "formatVersion": 1,
  "league": "HC Runes of Aldur",
- "fetchedAt": "2026-11-14T14:11:43.865Z",
- "baseCurrency": "exalted",
- "rates": {},
+ "fetchedAt": "2026-11-14T19:12:05.271Z",
+ "baseCurrency": "divine",
+ "rates": {
+  "exalted": 120
+ },
  "source": "https://poe.ninja/poe2/economy",
  "failed": [],
  "items": {
-  "vaal": {
-   "name": "Vaal Orb",
-   "value": 6,
+  "divine": {
+   "name": "Divine Orb",
+   "value": 1,
    "type": "Currency"
   },
-  "greater-stone-rune": {
-   "name": "Greater Stone Rune",
-   "value": 2,
-   "type": "Runes"
+  "chance": {
+   "name": "Orb of Chance",
+   "value": 3,
+   "type": "Currency"
+  },
+  "exalted": {
+   "name": "Exalted Orb",
+   "value": 0.008333,
+   "type": "Currency"
+  },
+  "omen-of-whittling": {
+   "name": "Omen of Whittling",
+   "value": 10,
+   "type": "Ritual"
   },
   "omen-of-bartering": {
    "name": "Omen of Bartering",
-   "value": 3,
+   "value": 0.025,
    "type": "Ritual"
   },
   "omen-of-resurgence": {
    "name": "Omen of Resurgence",
-   "value": 11,
+   "value": 0.09167,
    "type": "Ritual"
   }
  }
