@@ -2,16 +2,31 @@
  "format": "poe2-ninja-prices",
  "formatVersion": 1,
  "league": "HC Runes of Aldur",
- "fetchedAt": "2026-11-14T06:30:06.682Z",
+ "fetchedAt": "2026-11-14T14:11:43.865Z",
  "baseCurrency": "exalted",
  "rates": {},
  "source": "https://poe.ninja/poe2/economy",
  "failed": [],
  "items": {
-  "gnawed-collarbone": {
-   "name": "Gnawed Collarbone",
-   "value": 5,
-   "type": "Abyss"
+  "vaal": {
+   "name": "Vaal Orb",
+   "value": 6,
+   "type": "Currency"
+  },
+  "greater-stone-rune": {
+   "name": "Greater Stone Rune",
+   "value": 2,
+   "type": "Runes"
+  },
+  "omen-of-bartering": {
+   "name": "Omen of Bartering",
+   "value": 3,
+   "type": "Ritual"
+  },
+  "omen-of-resurgence": {
+   "name": "Omen of Resurgence",
+   "value": 11,
+   "type": "Ritual"
   }
  }
 }
