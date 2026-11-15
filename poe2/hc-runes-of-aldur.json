@@ -2,43 +2,16 @@
  "format": "poe2-ninja-prices",
  "formatVersion": 1,
  "league": "HC Runes of Aldur",
- "fetchedAt": "2026-11-15T17:45:26.578Z",
- "baseCurrency": "chaos",
- "rates": {
-  "divine": 0.1429
- },
+ "fetchedAt": "2026-11-15T22:52:22.000Z",
+ "baseCurrency": "exalted",
+ "rates": {},
  "source": "https://poe.ninja/poe2/economy",
  "failed": [],
  "items": {
-  "chaos": {
-   "name": "Chaos Orb",
-   "value": 1,
+  "scrap": {
+   "name": "Armourer's Scrap",
+   "value": 5.56,
    "type": "Currency"
-  },
-  "divine": {
-   "name": "Divine Orb",
-   "value": 7,
-   "type": "Currency"
-  },
-  "greater-chaos-orb": {
-   "name": "Greater Chaos Orb",
-   "value": 2,
-   "type": "Currency"
-  },
-  "weathered-crisis-fragment": {
-   "name": "Weathered Crisis Fragment",
-   "value": 70,
-   "type": "Fragments"
-  },
-  "preserved-cranium": {
-   "name": "Preserved Cranium",
-   "value": 62.12,
-   "type": "Abyss"
-  },
-  "preserved-rib": {
-   "name": "Preserved Rib",
-   "value": 1.75,
-   "type": "Abyss"
   }
  }
 }
