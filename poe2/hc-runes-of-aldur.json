@@ -2,38 +2,43 @@
  "format": "poe2-ninja-prices",
  "formatVersion": 1,
  "league": "HC Runes of Aldur",
- "fetchedAt": "2026-11-15T11:00:09.260Z",
- "baseCurrency": "divine",
+ "fetchedAt": "2026-11-15T17:45:26.578Z",
+ "baseCurrency": "chaos",
  "rates": {
-  "exalted": 120
+  "divine": 0.1429
  },
  "source": "https://poe.ninja/poe2/economy",
  "failed": [],
  "items": {
-  "divine": {
-   "name": "Divine Orb",
+  "chaos": {
+   "name": "Chaos Orb",
    "value": 1,
    "type": "Currency"
   },
-  "exalted": {
-   "name": "Exalted Orb",
-   "value": 0.008333,
+  "divine": {
+   "name": "Divine Orb",
+   "value": 7,
    "type": "Currency"
+  },
+  "greater-chaos-orb": {
+   "name": "Greater Chaos Orb",
+   "value": 2,
+   "type": "Currency"
+  },
+  "weathered-crisis-fragment": {
+   "name": "Weathered Crisis Fragment",
+   "value": 70,
+   "type": "Fragments"
   },
   "preserved-cranium": {
    "name": "Preserved Cranium",
-   "value": 8.88,
+   "value": 62.12,
    "type": "Abyss"
   },
   "preserved-rib": {
    "name": "Preserved Rib",
-   "value": 0.25,
+   "value": 1.75,
    "type": "Abyss"
-  },
-  "omen-of-resurgence": {
-   "name": "Omen of Resurgence",
-   "value": 0.08333,
-   "type": "Ritual"
   }
  }
 }
