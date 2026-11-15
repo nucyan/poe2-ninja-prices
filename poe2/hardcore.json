@@ -2,22 +2,15 @@
  "format": "poe2-ninja-prices",
  "formatVersion": 1,
  "league": "Hardcore",
- "fetchedAt": "2026-11-15T02:43:00.569Z",
- "baseCurrency": "chaos",
- "rates": {
-  "exalted": 20
- },
+ "fetchedAt": "2026-11-15T11:00:09.260Z",
+ "baseCurrency": "exalted",
+ "rates": {},
  "source": "https://poe.ninja/poe2/economy",
  "failed": [],
  "items": {
-  "chaos": {
-   "name": "Chaos Orb",
-   "value": 1,
-   "type": "Currency"
-  },
-  "exalted": {
-   "name": "Exalted Orb",
-   "value": 0.05,
+  "scrap": {
+   "name": "Armourer's Scrap",
+   "value": 0.5,
    "type": "Currency"
   }
  }
