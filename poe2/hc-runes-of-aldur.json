@@ -2,17 +2,28 @@
  "format": "poe2-ninja-prices",
  "formatVersion": 1,
  "league": "HC Runes of Aldur",
- "fetchedAt": "2026-11-16T11:29:02.127Z",
+ "fetchedAt": "2026-11-16T22:09:53.324Z",
  "baseCurrency": "divine",
  "rates": {
-  "exalted": 120
+  "exalted": 120,
+  "chaos": 6
  },
  "source": "https://poe.ninja/poe2/economy",
  "failed": [],
  "items": {
+  "chaos": {
+   "name": "Chaos Orb",
+   "value": 0.1667,
+   "type": "Currency"
+  },
   "divine": {
    "name": "Divine Orb",
    "value": 1,
+   "type": "Currency"
+  },
+  "regal": {
+   "name": "Regal Orb",
+   "value": 0.03333,
    "type": "Currency"
   },
   "exalted": {
@@ -20,15 +31,30 @@
    "value": 0.008333,
    "type": "Currency"
   },
-  "preserved-rib": {
-   "name": "Preserved Rib",
-   "value": 0.25,
-   "type": "Abyss"
+  "lesser-jewellers-orb": {
+   "name": "Lesser Jeweller's Orb",
+   "value": 0.01667,
+   "type": "Currency"
   },
-  "essence-of-the-breach": {
-   "name": "Essence of the Breach",
-   "value": 4,
-   "type": "Essences"
+  "greater-exalted-orb": {
+   "name": "Greater Exalted Orb",
+   "value": 0.1,
+   "type": "Currency"
+  },
+  "greater-jewellers-orb": {
+   "name": "Greater Jeweller's Orb",
+   "value": 0.1667,
+   "type": "Currency"
+  },
+  "omen-of-abyssal-echoes": {
+   "name": "Omen of Abyssal Echoes",
+   "value": 1,
+   "type": "Ritual"
+  },
+  "omen-of-sinistral-necromancy": {
+   "name": "Omen of Sinistral Necromancy",
+   "value": 0.4583,
+   "type": "Ritual"
   }
  }
 }
