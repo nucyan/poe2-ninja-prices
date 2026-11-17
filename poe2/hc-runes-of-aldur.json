@@ -2,69 +2,33 @@
  "format": "poe2-ninja-prices",
  "formatVersion": 1,
  "league": "HC Runes of Aldur",
- "fetchedAt": "2026-11-17T04:31:59.285Z",
- "baseCurrency": "divine",
+ "fetchedAt": "2026-11-17T14:29:15.597Z",
+ "baseCurrency": "chaos",
  "rates": {
-  "exalted": 120,
-  "chaos": 3
+  "divine": 0.3333
  },
  "source": "https://poe.ninja/poe2/economy",
  "failed": [],
  "items": {
-  "chaos": {
-   "name": "Chaos Orb",
-   "value": 0.3333,
-   "type": "Currency"
-  },
-  "divine": {
-   "name": "Divine Orb",
-   "value": 1,
-   "type": "Currency"
-  },
-  "exalted": {
-   "name": "Exalted Orb",
-   "value": 0.008333,
-   "type": "Currency"
-  },
-  "preserved-collarbone": {
-   "name": "Preserved Collarbone",
-   "value": 0.08333,
+  "preserved-cranium": {
+   "name": "Preserved Cranium",
+   "value": 31.2,
    "type": "Abyss"
   },
-  "greater-essence-of-enhancement": {
-   "name": "Greater Essence of Enhancement",
-   "value": 0.5,
-   "type": "Essences"
-  },
-  "omen-of-abyssal-echoes": {
-   "name": "Omen of Abyssal Echoes",
-   "value": 1,
-   "type": "Ritual"
-  },
-  "omen-of-sinistral-necromancy": {
-   "name": "Omen of Sinistral Necromancy",
-   "value": 0.4583,
-   "type": "Ritual"
-  },
-  "crackling-flux": {
-   "name": "Crackling Flux",
-   "value": 2.67,
-   "type": "Expedition"
-  },
-  "diluted-liquid-greed": {
-   "name": "Diluted Liquid Greed",
-   "value": 0.4167,
-   "type": "Delirium"
-  },
-  "diluted-liquid-ire": {
-   "name": "Diluted Liquid Ire",
-   "value": 0.04167,
-   "type": "Delirium"
-  },
-  "liquid-disgust": {
-   "name": "Liquid Disgust",
+  "omen-of-putrefaction": {
+   "name": "Omen of Putrefaction",
    "value": 3,
-   "type": "Delirium"
+   "type": "Ritual"
+  },
+  "omen-of-light": {
+   "name": "Omen of Light",
+   "value": 30,
+   "type": "Ritual"
+  },
+  "omen-of-whittling": {
+   "name": "Omen of Whittling",
+   "value": 36,
+   "type": "Ritual"
   }
  }
 }
