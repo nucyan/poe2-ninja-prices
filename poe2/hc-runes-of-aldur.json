@@ -2,7 +2,7 @@
  "format": "poe2-ninja-prices",
  "formatVersion": 1,
  "league": "HC Runes of Aldur",
- "fetchedAt": "2026-11-17T14:29:15.597Z",
+ "fetchedAt": "2026-11-17T22:55:16.466Z",
  "baseCurrency": "chaos",
  "rates": {
   "divine": 0.3333
@@ -10,24 +10,44 @@
  "source": "https://poe.ninja/poe2/economy",
  "failed": [],
  "items": {
+  "architects-orb": {
+   "name": "Architect's Orb",
+   "value": 3,
+   "type": "Currency"
+  },
+  "divine": {
+   "name": "Divine Orb",
+   "value": 3,
+   "type": "Currency"
+  },
+  "chaos": {
+   "name": "Chaos Orb",
+   "value": 1,
+   "type": "Currency"
+  },
+  "greater-chaos-orb": {
+   "name": "Greater Chaos Orb",
+   "value": 2,
+   "type": "Currency"
+  },
   "preserved-cranium": {
    "name": "Preserved Cranium",
-   "value": 31.2,
+   "value": 21,
    "type": "Abyss"
   },
-  "omen-of-putrefaction": {
-   "name": "Omen of Putrefaction",
+  "craiceanns-rune-of-recovery": {
+   "name": "Craiceann's Rune of Recovery",
+   "value": 6,
+   "type": "Runes"
+  },
+  "farruls-rune-of-the-chase": {
+   "name": "Farrul's Rune of the Chase",
+   "value": 15,
+   "type": "Runes"
+  },
+  "omen-of-abyssal-echoes": {
+   "name": "Omen of Abyssal Echoes",
    "value": 3,
-   "type": "Ritual"
-  },
-  "omen-of-light": {
-   "name": "Omen of Light",
-   "value": 30,
-   "type": "Ritual"
-  },
-  "omen-of-whittling": {
-   "name": "Omen of Whittling",
-   "value": 36,
    "type": "Ritual"
   }
  }
