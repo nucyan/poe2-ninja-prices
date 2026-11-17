@@ -2,18 +2,18 @@
  "format": "poe2-ninja-prices",
  "formatVersion": 1,
  "league": "HC Runes of Aldur",
- "fetchedAt": "2026-11-16T22:09:53.324Z",
+ "fetchedAt": "2026-11-17T04:31:59.285Z",
  "baseCurrency": "divine",
  "rates": {
   "exalted": 120,
-  "chaos": 6
+  "chaos": 3
  },
  "source": "https://poe.ninja/poe2/economy",
  "failed": [],
  "items": {
   "chaos": {
    "name": "Chaos Orb",
-   "value": 0.1667,
+   "value": 0.3333,
    "type": "Currency"
   },
   "divine": {
@@ -21,30 +21,20 @@
    "value": 1,
    "type": "Currency"
   },
-  "regal": {
-   "name": "Regal Orb",
-   "value": 0.03333,
-   "type": "Currency"
-  },
   "exalted": {
    "name": "Exalted Orb",
    "value": 0.008333,
    "type": "Currency"
   },
-  "lesser-jewellers-orb": {
-   "name": "Lesser Jeweller's Orb",
-   "value": 0.01667,
-   "type": "Currency"
+  "preserved-collarbone": {
+   "name": "Preserved Collarbone",
+   "value": 0.08333,
+   "type": "Abyss"
   },
-  "greater-exalted-orb": {
-   "name": "Greater Exalted Orb",
-   "value": 0.1,
-   "type": "Currency"
-  },
-  "greater-jewellers-orb": {
-   "name": "Greater Jeweller's Orb",
-   "value": 0.1667,
-   "type": "Currency"
+  "greater-essence-of-enhancement": {
+   "name": "Greater Essence of Enhancement",
+   "value": 0.5,
+   "type": "Essences"
   },
   "omen-of-abyssal-echoes": {
    "name": "Omen of Abyssal Echoes",
@@ -55,6 +45,26 @@
    "name": "Omen of Sinistral Necromancy",
    "value": 0.4583,
    "type": "Ritual"
+  },
+  "crackling-flux": {
+   "name": "Crackling Flux",
+   "value": 2.67,
+   "type": "Expedition"
+  },
+  "diluted-liquid-greed": {
+   "name": "Diluted Liquid Greed",
+   "value": 0.4167,
+   "type": "Delirium"
+  },
+  "diluted-liquid-ire": {
+   "name": "Diluted Liquid Ire",
+   "value": 0.04167,
+   "type": "Delirium"
+  },
+  "liquid-disgust": {
+   "name": "Liquid Disgust",
+   "value": 3,
+   "type": "Delirium"
   }
  }
 }
