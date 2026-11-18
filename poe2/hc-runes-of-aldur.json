@@ -2,16 +2,74 @@
  "format": "poe2-ninja-prices",
  "formatVersion": 1,
  "league": "HC Runes of Aldur",
- "fetchedAt": "2026-11-18T04:26:21.118Z",
- "baseCurrency": "exalted",
- "rates": {},
+ "fetchedAt": "2026-11-18T14:04:32.543Z",
+ "baseCurrency": "divine",
+ "rates": {
+  "exalted": 322.5,
+  "chaos": 6.93
+ },
  "source": "https://poe.ninja/poe2/economy",
  "failed": [],
  "items": {
-  "gnawed-jawbone": {
-   "name": "Gnawed Jawbone",
-   "value": 50,
+  "chaos": {
+   "name": "Chaos Orb",
+   "value": 0.1442,
+   "type": "Currency"
+  },
+  "divine": {
+   "name": "Divine Orb",
+   "value": 1,
+   "type": "Currency"
+  },
+  "exalted": {
+   "name": "Exalted Orb",
+   "value": 0.003101,
+   "type": "Currency"
+  },
+  "greater-jewellers-orb": {
+   "name": "Greater Jeweller's Orb",
+   "value": 1,
+   "type": "Currency"
+  },
+  "perfect-orb-of-transmutation": {
+   "name": "Perfect Orb of Transmutation",
+   "value": 1,
+   "type": "Currency"
+  },
+  "vaal-catalysing-infuser": {
+   "name": "Vaal Catalysing Infuser",
+   "value": 1,
+   "type": "Currency"
+  },
+  "vaal": {
+   "name": "Vaal Orb",
+   "value": 0.04167,
+   "type": "Currency"
+  },
+  "weathered-crisis-fragment": {
+   "name": "Weathered Crisis Fragment",
+   "value": 5,
+   "type": "Fragments"
+  },
+  "preserved-jawbone": {
+   "name": "Preserved Jawbone",
+   "value": 0.02791,
    "type": "Abyss"
+  },
+  "soul-core-of-citaqualotl": {
+   "name": "Soul Core of Citaqualotl",
+   "value": 0.05581,
+   "type": "SoulCores"
+  },
+  "omen-of-abyssal-echoes": {
+   "name": "Omen of Abyssal Echoes",
+   "value": 0.5769,
+   "type": "Ritual"
+  },
+  "omen-of-sinistral-necromancy": {
+   "name": "Omen of Sinistral Necromancy",
+   "value": 0.0155,
+   "type": "Ritual"
   }
  }
 }
