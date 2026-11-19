@@ -2,18 +2,18 @@
  "format": "poe2-ninja-prices",
  "formatVersion": 1,
  "league": "HC Runes of Aldur",
- "fetchedAt": "2026-11-18T21:59:43.013Z",
+ "fetchedAt": "2026-11-19T03:33:36.080Z",
  "baseCurrency": "divine",
  "rates": {
   "exalted": 120,
-  "chaos": 7
+  "chaos": 3
  },
  "source": "https://poe.ninja/poe2/economy",
  "failed": [],
  "items": {
   "chaos": {
    "name": "Chaos Orb",
-   "value": 0.1429,
+   "value": 0.3333,
    "type": "Currency"
   },
   "divine": {
@@ -26,9 +26,9 @@
    "value": 0.008333,
    "type": "Currency"
   },
-  "greater-chaos-orb": {
-   "name": "Greater Chaos Orb",
-   "value": 0.2857,
+  "whetstone": {
+   "name": "Blacksmith's Whetstone",
+   "value": 0.01667,
    "type": "Currency"
   },
   "preserved-rib": {
@@ -36,10 +36,10 @@
    "value": 0.25,
    "type": "Abyss"
   },
-  "omen-of-bartering": {
-   "name": "Omen of Bartering",
-   "value": 0.025,
-   "type": "Ritual"
+  "greater-adept-rune": {
+   "name": "Greater Adept Rune",
+   "value": 1,
+   "type": "Runes"
   }
  }
 }
