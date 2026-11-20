@@ -2,44 +2,21 @@
  "format": "poe2-ninja-prices",
  "formatVersion": 1,
  "league": "HC Runes of Aldur",
- "fetchedAt": "2026-11-20T03:22:17.348Z",
- "baseCurrency": "divine",
- "rates": {
-  "exalted": 120,
-  "chaos": 5.67
- },
+ "fetchedAt": "2026-11-20T12:58:15.342Z",
+ "baseCurrency": "exalted",
+ "rates": {},
  "source": "https://poe.ninja/poe2/economy",
  "failed": [],
  "items": {
-  "chaos": {
-   "name": "Chaos Orb",
-   "value": 0.1765,
-   "type": "Currency"
+  "preserved-collarbone": {
+   "name": "Preserved Collarbone",
+   "value": 147,
+   "type": "Abyss"
   },
-  "divine": {
-   "name": "Divine Orb",
-   "value": 1,
-   "type": "Currency"
-  },
-  "exalted": {
-   "name": "Exalted Orb",
-   "value": 0.008333,
-   "type": "Currency"
-  },
-  "perfect-jewellers-orb": {
-   "name": "Perfect Jeweller's Orb",
-   "value": 1.67,
-   "type": "Currency"
-  },
-  "kulemaks-invitation": {
-   "name": "Kulemak's Invitation",
-   "value": 3,
-   "type": "Fragments"
-  },
-  "warding-rune-of-nourishment": {
-   "name": "Warding Rune of Nourishment",
-   "value": 0.7059,
-   "type": "Runes"
+  "omen-of-sinistral-necromancy": {
+   "name": "Omen of Sinistral Necromancy",
+   "value": 55,
+   "type": "Ritual"
   }
  }
 }
