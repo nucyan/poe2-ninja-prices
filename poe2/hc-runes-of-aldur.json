@@ -2,28 +2,18 @@
  "format": "poe2-ninja-prices",
  "formatVersion": 1,
  "league": "HC Runes of Aldur",
- "fetchedAt": "2026-11-19T21:40:14.021Z",
+ "fetchedAt": "2026-11-20T03:22:17.348Z",
  "baseCurrency": "divine",
  "rates": {
   "exalted": 120,
-  "chaos": 3
+  "chaos": 5.67
  },
  "source": "https://poe.ninja/poe2/economy",
  "failed": [],
  "items": {
-  "artificers": {
-   "name": "Artificer's Orb",
-   "value": 0.04167,
-   "type": "Currency"
-  },
-  "exalted": {
-   "name": "Exalted Orb",
-   "value": 0.008333,
-   "type": "Currency"
-  },
   "chaos": {
    "name": "Chaos Orb",
-   "value": 0.3333,
+   "value": 0.1765,
    "type": "Currency"
   },
   "divine": {
@@ -31,9 +21,14 @@
    "value": 1,
    "type": "Currency"
   },
-  "gcp": {
-   "name": "Gemcutter's Prism",
-   "value": 0.3,
+  "exalted": {
+   "name": "Exalted Orb",
+   "value": 0.008333,
+   "type": "Currency"
+  },
+  "perfect-jewellers-orb": {
+   "name": "Perfect Jeweller's Orb",
+   "value": 1.67,
    "type": "Currency"
   },
   "kulemaks-invitation": {
@@ -43,7 +38,7 @@
   },
   "warding-rune-of-nourishment": {
    "name": "Warding Rune of Nourishment",
-   "value": 1.33,
+   "value": 0.7059,
    "type": "Runes"
   }
  }
