@@ -2,47 +2,30 @@
  "format": "poe2-ninja-prices",
  "formatVersion": 1,
  "league": "HC Runes of Aldur",
- "fetchedAt": "2026-11-20T21:10:04.161Z",
- "baseCurrency": "divine",
- "rates": {
-  "exalted": 120
- },
+ "fetchedAt": "2026-11-21T02:21:12.558Z",
+ "baseCurrency": "exalted",
+ "rates": {},
  "source": "https://poe.ninja/poe2/economy",
  "failed": [],
  "items": {
-  "divine": {
-   "name": "Divine Orb",
-   "value": 1,
-   "type": "Currency"
-  },
-  "exalted": {
-   "name": "Exalted Orb",
-   "value": 0.008333,
-   "type": "Currency"
-  },
-  "lesser-jewellers-orb": {
-   "name": "Lesser Jeweller's Orb",
-   "value": 0.01806,
-   "type": "Currency"
-  },
   "vaal": {
    "name": "Vaal Orb",
-   "value": 0.05,
+   "value": 6,
    "type": "Currency"
+  },
+  "soul-core-of-tacati": {
+   "name": "Soul Core of Tacati",
+   "value": 78,
+   "type": "SoulCores"
   },
   "omen-of-sinistral-necromancy": {
    "name": "Omen of Sinistral Necromancy",
-   "value": 0.4583,
+   "value": 55,
    "type": "Ritual"
   },
-  "thaumaturgic-flux-16": {
-   "name": "Thaumaturgic Flux (Level 16)",
-   "value": 0.4167,
-   "type": "Expedition"
-  },
-  "uhtreds-crest-of-the-chalice": {
-   "name": "Uhtred's Crest of the Chalice",
-   "value": 1,
+  "voranas-crest-of-the-scythe": {
+   "name": "Vorana's Crest of the Scythe",
+   "value": 25,
    "type": "Verisium"
   }
  }
