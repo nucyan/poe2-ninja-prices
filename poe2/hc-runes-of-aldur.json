@@ -2,38 +2,26 @@
  "format": "poe2-ninja-prices",
  "formatVersion": 1,
  "league": "HC Runes of Aldur",
- "fetchedAt": "2026-11-21T11:11:18.481Z",
- "baseCurrency": "chaos",
- "rates": {
-  "divine": 0.1429
- },
+ "fetchedAt": "2026-11-21T18:00:03.643Z",
+ "baseCurrency": "exalted",
+ "rates": {},
  "source": "https://poe.ninja/poe2/economy",
  "failed": [],
  "items": {
-  "chaos": {
-   "name": "Chaos Orb",
-   "value": 1,
-   "type": "Currency"
-  },
-  "divine": {
-   "name": "Divine Orb",
-   "value": 7,
-   "type": "Currency"
-  },
-  "greater-chaos-orb": {
-   "name": "Greater Chaos Orb",
-   "value": 2,
-   "type": "Currency"
-  },
-  "ancient-rib": {
-   "name": "Ancient Rib",
-   "value": 70,
-   "type": "Abyss"
-  },
-  "rune-of-foundations": {
-   "name": "Rune of Foundations",
+  "lesser-jewellers-orb": {
+   "name": "Lesser Jeweller's Orb",
    "value": 3,
-   "type": "Runes"
+   "type": "Currency"
+  },
+  "ox-idol": {
+   "name": "Ox Idol",
+   "value": 100,
+   "type": "Idols"
+  },
+  "verisium": {
+   "name": "Verisium",
+   "value": 0.02,
+   "type": "Verisium"
   }
  }
 }
