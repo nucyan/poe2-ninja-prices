@@ -2,31 +2,38 @@
  "format": "poe2-ninja-prices",
  "formatVersion": 1,
  "league": "HC Runes of Aldur",
- "fetchedAt": "2026-11-21T02:21:12.558Z",
- "baseCurrency": "exalted",
- "rates": {},
+ "fetchedAt": "2026-11-21T11:11:18.481Z",
+ "baseCurrency": "chaos",
+ "rates": {
+  "divine": 0.1429
+ },
  "source": "https://poe.ninja/poe2/economy",
  "failed": [],
  "items": {
-  "vaal": {
-   "name": "Vaal Orb",
-   "value": 6,
+  "chaos": {
+   "name": "Chaos Orb",
+   "value": 1,
    "type": "Currency"
   },
-  "soul-core-of-tacati": {
-   "name": "Soul Core of Tacati",
-   "value": 78,
-   "type": "SoulCores"
+  "divine": {
+   "name": "Divine Orb",
+   "value": 7,
+   "type": "Currency"
   },
-  "omen-of-sinistral-necromancy": {
-   "name": "Omen of Sinistral Necromancy",
-   "value": 55,
-   "type": "Ritual"
+  "greater-chaos-orb": {
+   "name": "Greater Chaos Orb",
+   "value": 2,
+   "type": "Currency"
   },
-  "voranas-crest-of-the-scythe": {
-   "name": "Vorana's Crest of the Scythe",
-   "value": 25,
-   "type": "Verisium"
+  "ancient-rib": {
+   "name": "Ancient Rib",
+   "value": 70,
+   "type": "Abyss"
+  },
+  "rune-of-foundations": {
+   "name": "Rune of Foundations",
+   "value": 3,
+   "type": "Runes"
   }
  }
 }
