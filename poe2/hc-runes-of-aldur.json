@@ -2,25 +2,42 @@
  "format": "poe2-ninja-prices",
  "formatVersion": 1,
  "league": "HC Runes of Aldur",
- "fetchedAt": "2026-11-21T18:00:03.643Z",
- "baseCurrency": "exalted",
- "rates": {},
+ "fetchedAt": "2026-11-21T23:22:33.512Z",
+ "baseCurrency": "chaos",
+ "rates": {
+  "divine": 0.2
+ },
  "source": "https://poe.ninja/poe2/economy",
  "failed": [],
  "items": {
-  "lesser-jewellers-orb": {
-   "name": "Lesser Jeweller's Orb",
-   "value": 3,
+  "chaos": {
+   "name": "Chaos Orb",
+   "value": 1,
    "type": "Currency"
   },
-  "ox-idol": {
-   "name": "Ox Idol",
-   "value": 100,
+  "divine": {
+   "name": "Divine Orb",
+   "value": 5,
+   "type": "Currency"
+  },
+  "panther-idol": {
+   "name": "Panther Idol",
+   "value": 5,
    "type": "Idols"
   },
-  "verisium": {
-   "name": "Verisium",
-   "value": 0.02,
+  "masterwork-rune": {
+   "name": "Masterwork Rune",
+   "value": 5,
+   "type": "Runes"
+  },
+  "expansive-alloy": {
+   "name": "Expansive Alloy",
+   "value": 5,
+   "type": "Verisium"
+  },
+  "runic-alloy": {
+   "name": "Runic Alloy",
+   "value": 5,
    "type": "Verisium"
   }
  }
