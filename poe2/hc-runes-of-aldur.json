@@ -2,42 +2,73 @@
  "format": "poe2-ninja-prices",
  "formatVersion": 1,
  "league": "HC Runes of Aldur",
- "fetchedAt": "2026-11-21T23:22:33.512Z",
- "baseCurrency": "chaos",
+ "fetchedAt": "2026-11-22T06:56:05.843Z",
+ "baseCurrency": "divine",
  "rates": {
-  "divine": 0.2
+  "exalted": 120,
+  "chaos": 7
  },
  "source": "https://poe.ninja/poe2/economy",
  "failed": [],
  "items": {
+  "artificers": {
+   "name": "Artificer's Orb",
+   "value": 0.04167,
+   "type": "Currency"
+  },
+  "exalted": {
+   "name": "Exalted Orb",
+   "value": 0.008333,
+   "type": "Currency"
+  },
   "chaos": {
    "name": "Chaos Orb",
-   "value": 1,
+   "value": 0.1429,
    "type": "Currency"
   },
   "divine": {
    "name": "Divine Orb",
-   "value": 5,
+   "value": 1,
    "type": "Currency"
   },
-  "panther-idol": {
-   "name": "Panther Idol",
-   "value": 5,
-   "type": "Idols"
+  "perfect-jewellers-orb": {
+   "name": "Perfect Jeweller's Orb",
+   "value": 2,
+   "type": "Currency"
   },
-  "masterwork-rune": {
-   "name": "Masterwork Rune",
-   "value": 5,
-   "type": "Runes"
+  "gcp": {
+   "name": "Gemcutter's Prism",
+   "value": 0.3,
+   "type": "Currency"
   },
-  "expansive-alloy": {
-   "name": "Expansive Alloy",
-   "value": 5,
-   "type": "Verisium"
+  "greater-chaos-orb": {
+   "name": "Greater Chaos Orb",
+   "value": 0.08571,
+   "type": "Currency"
   },
-  "runic-alloy": {
-   "name": "Runic Alloy",
-   "value": 5,
+  "vaal": {
+   "name": "Vaal Orb",
+   "value": 0.04167,
+   "type": "Currency"
+  },
+  "omen-of-dextral-annulment": {
+   "name": "Omen of Dextral Annulment",
+   "value": 6,
+   "type": "Ritual"
+  },
+  "omen-of-dextral-erasure": {
+   "name": "Omen of Dextral Erasure",
+   "value": 7,
+   "type": "Ritual"
+  },
+  "omen-of-whittling": {
+   "name": "Omen of Whittling",
+   "value": 10,
+   "type": "Ritual"
+  },
+  "verisium": {
+   "name": "Verisium",
+   "value": 0.0001429,
    "type": "Verisium"
   }
  }
