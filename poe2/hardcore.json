@@ -2,15 +2,22 @@
  "format": "poe2-ninja-prices",
  "formatVersion": 1,
  "league": "Hardcore",
- "fetchedAt": "2026-11-22T21:49:52.441Z",
- "baseCurrency": "exalted",
- "rates": {},
+ "fetchedAt": "2026-11-23T02:49:32.950Z",
+ "baseCurrency": "divine",
+ "rates": {
+  "exalted": 90
+ },
  "source": "https://poe.ninja/poe2/economy",
  "failed": [],
  "items": {
-  "gcp": {
-   "name": "Gemcutter's Prism",
-   "value": 6,
+  "divine": {
+   "name": "Divine Orb",
+   "value": 1,
+   "type": "Currency"
+  },
+  "exalted": {
+   "name": "Exalted Orb",
+   "value": 0.01111,
    "type": "Currency"
   }
  }
