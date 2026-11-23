@@ -2,48 +2,38 @@
  "format": "poe2-ninja-prices",
  "formatVersion": 1,
  "league": "HC Runes of Aldur",
- "fetchedAt": "2026-11-23T02:49:32.950Z",
- "baseCurrency": "chaos",
+ "fetchedAt": "2026-11-23T12:54:02.787Z",
+ "baseCurrency": "divine",
  "rates": {
-  "divine": 0.1429
+  "exalted": 120
  },
  "source": "https://poe.ninja/poe2/economy",
  "failed": [],
  "items": {
-  "chaos": {
-   "name": "Chaos Orb",
+  "divine": {
+   "name": "Divine Orb",
    "value": 1,
    "type": "Currency"
   },
-  "divine": {
-   "name": "Divine Orb",
-   "value": 7,
+  "exalted": {
+   "name": "Exalted Orb",
+   "value": 0.008333,
    "type": "Currency"
   },
-  "perfect-jewellers-orb": {
-   "name": "Perfect Jeweller's Orb",
-   "value": 14,
+  "gcp": {
+   "name": "Gemcutter's Prism",
+   "value": 0.02083,
    "type": "Currency"
   },
-  "origin-cradle": {
-   "name": "Origin Cradle",
-   "value": 105,
-   "type": "Fragments"
+  "vaal": {
+   "name": "Vaal Orb",
+   "value": 0.05,
+   "type": "Currency"
   },
-  "origin-spark": {
-   "name": "Origin Spark",
-   "value": 105,
-   "type": "Fragments"
-  },
-  "omen-of-abyssal-echoes": {
-   "name": "Omen of Abyssal Echoes",
-   "value": 7,
-   "type": "Ritual"
-  },
-  "runic-alloy": {
-   "name": "Runic Alloy",
-   "value": 14,
-   "type": "Verisium"
+  "soul-core-of-opiloti": {
+   "name": "Soul Core of Opiloti",
+   "value": 0.125,
+   "type": "SoulCores"
   }
  }
 }
