@@ -2,33 +2,44 @@
  "format": "poe2-ninja-prices",
  "formatVersion": 1,
  "league": "HC Runes of Aldur",
- "fetchedAt": "2026-11-24T10:59:04.870Z",
- "baseCurrency": "chaos",
+ "fetchedAt": "2026-11-24T21:15:46.414Z",
+ "baseCurrency": "divine",
  "rates": {
-  "exalted": 40
+  "exalted": 120,
+  "chaos": 6.77
  },
  "source": "https://poe.ninja/poe2/economy",
  "failed": [],
  "items": {
   "chaos": {
    "name": "Chaos Orb",
+   "value": 0.1477,
+   "type": "Currency"
+  },
+  "divine": {
+   "name": "Divine Orb",
    "value": 1,
    "type": "Currency"
   },
   "exalted": {
    "name": "Exalted Orb",
-   "value": 0.025,
+   "value": 0.008333,
    "type": "Currency"
   },
-  "greater-jewellers-orb": {
-   "name": "Greater Jeweller's Orb",
+  "gcp": {
+   "name": "Gemcutter's Prism",
+   "value": 0.1139,
+   "type": "Currency"
+  },
+  "vaal-catalysing-infuser": {
+   "name": "Vaal Catalysing Infuser",
    "value": 1,
    "type": "Currency"
   },
-  "medveds-crest-of-the-circle": {
-   "name": "Medved's Crest of the Circle",
-   "value": 2,
-   "type": "Verisium"
+  "omen-of-sinistral-annulment": {
+   "name": "Omen of Sinistral Annulment",
+   "value": 14.5,
+   "type": "Ritual"
   }
  }
 }
