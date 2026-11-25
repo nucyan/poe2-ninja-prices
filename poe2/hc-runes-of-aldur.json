@@ -2,20 +2,14 @@
  "format": "poe2-ninja-prices",
  "formatVersion": 1,
  "league": "HC Runes of Aldur",
- "fetchedAt": "2026-11-24T21:15:46.414Z",
+ "fetchedAt": "2026-11-25T04:19:05.119Z",
  "baseCurrency": "divine",
  "rates": {
-  "exalted": 120,
-  "chaos": 6.77
+  "exalted": 120
  },
  "source": "https://poe.ninja/poe2/economy",
  "failed": [],
  "items": {
-  "chaos": {
-   "name": "Chaos Orb",
-   "value": 0.1477,
-   "type": "Currency"
-  },
   "divine": {
    "name": "Divine Orb",
    "value": 1,
@@ -26,19 +20,14 @@
    "value": 0.008333,
    "type": "Currency"
   },
-  "gcp": {
-   "name": "Gemcutter's Prism",
-   "value": 0.1139,
+  "transmute": {
+   "name": "Orb of Transmutation",
+   "value": 0.004167,
    "type": "Currency"
   },
-  "vaal-catalysing-infuser": {
-   "name": "Vaal Catalysing Infuser",
-   "value": 1,
-   "type": "Currency"
-  },
-  "omen-of-sinistral-annulment": {
-   "name": "Omen of Sinistral Annulment",
-   "value": 14.5,
+  "omen-of-dextral-annulment": {
+   "name": "Omen of Dextral Annulment",
+   "value": 6,
    "type": "Ritual"
   }
  }
