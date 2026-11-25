@@ -2,14 +2,30 @@
  "format": "poe2-ninja-prices",
  "formatVersion": 1,
  "league": "HC Runes of Aldur",
- "fetchedAt": "2026-11-25T04:19:05.119Z",
+ "fetchedAt": "2026-11-25T15:39:41.196Z",
  "baseCurrency": "divine",
  "rates": {
-  "exalted": 120
+  "exalted": 120,
+  "chaos": 6.6
  },
  "source": "https://poe.ninja/poe2/economy",
  "failed": [],
  "items": {
+  "chaos": {
+   "name": "Chaos Orb",
+   "value": 0.1515,
+   "type": "Currency"
+  },
+  "annul": {
+   "name": "Orb of Annulment",
+   "value": 0.303,
+   "type": "Currency"
+  },
+  "regal": {
+   "name": "Regal Orb",
+   "value": 0.0303,
+   "type": "Currency"
+  },
   "divine": {
    "name": "Divine Orb",
    "value": 1,
@@ -20,15 +36,20 @@
    "value": 0.008333,
    "type": "Currency"
   },
-  "transmute": {
-   "name": "Orb of Transmutation",
-   "value": 0.004167,
-   "type": "Currency"
+  "preserved-collarbone": {
+   "name": "Preserved Collarbone",
+   "value": 0.07692,
+   "type": "Abyss"
   },
-  "omen-of-dextral-annulment": {
-   "name": "Omen of Dextral Annulment",
-   "value": 6,
-   "type": "Ritual"
+  "concentrated-liquid-suffering": {
+   "name": "Concentrated Liquid Suffering",
+   "value": 3,
+   "type": "Delirium"
+  },
+  "voranas-crest-of-the-scythe": {
+   "name": "Vorana's Crest of the Scythe",
+   "value": 0.6061,
+   "type": "Verisium"
   }
  }
 }
