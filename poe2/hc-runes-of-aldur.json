@@ -2,28 +2,18 @@
  "format": "poe2-ninja-prices",
  "formatVersion": 1,
  "league": "HC Runes of Aldur",
- "fetchedAt": "2026-11-25T15:39:41.196Z",
+ "fetchedAt": "2026-11-26T00:25:14.514Z",
  "baseCurrency": "divine",
  "rates": {
   "exalted": 120,
-  "chaos": 6.6
+  "chaos": 6
  },
  "source": "https://poe.ninja/poe2/economy",
  "failed": [],
  "items": {
   "chaos": {
    "name": "Chaos Orb",
-   "value": 0.1515,
-   "type": "Currency"
-  },
-  "annul": {
-   "name": "Orb of Annulment",
-   "value": 0.303,
-   "type": "Currency"
-  },
-  "regal": {
-   "name": "Regal Orb",
-   "value": 0.0303,
+   "value": 0.1667,
    "type": "Currency"
   },
   "divine": {
@@ -36,20 +26,45 @@
    "value": 0.008333,
    "type": "Currency"
   },
-  "preserved-collarbone": {
-   "name": "Preserved Collarbone",
-   "value": 0.07692,
+  "gcp": {
+   "name": "Gemcutter's Prism",
+   "value": 0.3,
+   "type": "Currency"
+  },
+  "greater-chaos-orb": {
+   "name": "Greater Chaos Orb",
+   "value": 0.3333,
+   "type": "Currency"
+  },
+  "vaal": {
+   "name": "Vaal Orb",
+   "value": 0.05,
+   "type": "Currency"
+  },
+  "preserved-jawbone": {
+   "name": "Preserved Jawbone",
+   "value": 0.075,
    "type": "Abyss"
   },
-  "concentrated-liquid-suffering": {
-   "name": "Concentrated Liquid Suffering",
-   "value": 3,
-   "type": "Delirium"
+  "breath-of-aldur": {
+   "name": "Breath of Aldur",
+   "value": 1,
+   "type": "Runes"
   },
-  "voranas-crest-of-the-scythe": {
-   "name": "Vorana's Crest of the Scythe",
-   "value": 0.6061,
-   "type": "Verisium"
+  "omen-of-greater-exaltation": {
+   "name": "Omen of Greater Exaltation",
+   "value": 0.3167,
+   "type": "Ritual"
+  },
+  "omen-of-whittling": {
+   "name": "Omen of Whittling",
+   "value": 10,
+   "type": "Ritual"
+  },
+  "breach-splinter": {
+   "name": "Breach Splinter",
+   "value": 0.01,
+   "type": "Breach"
   }
  }
 }
