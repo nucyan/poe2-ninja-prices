@@ -2,27 +2,28 @@
  "format": "poe2-ninja-prices",
  "formatVersion": 1,
  "league": "Hardcore",
- "fetchedAt": "2026-11-26T00:25:14.514Z",
- "baseCurrency": "chaos",
+ "fetchedAt": "2026-11-26T09:34:57.783Z",
+ "baseCurrency": "exalted",
  "rates": {
-  "exalted": 20
+  "divine": 0.01111,
+  "chaos": 0.05
  },
  "source": "https://poe.ninja/poe2/economy",
  "failed": [],
  "items": {
   "chaos": {
    "name": "Chaos Orb",
-   "value": 1,
+   "value": 20,
    "type": "Currency"
   },
   "exalted": {
    "name": "Exalted Orb",
-   "value": 0.05,
+   "value": 1,
    "type": "Currency"
   },
-  "perfect-jewellers-orb": {
-   "name": "Perfect Jeweller's Orb",
-   "value": 10,
+  "divine": {
+   "name": "Divine Orb",
+   "value": 90,
    "type": "Currency"
   }
  }

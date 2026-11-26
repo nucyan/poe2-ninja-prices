@@ -2,69 +2,53 @@
  "format": "poe2-ninja-prices",
  "formatVersion": 1,
  "league": "HC Runes of Aldur",
- "fetchedAt": "2026-11-26T00:25:14.514Z",
- "baseCurrency": "divine",
+ "fetchedAt": "2026-11-26T09:34:57.783Z",
+ "baseCurrency": "chaos",
  "rates": {
-  "exalted": 120,
-  "chaos": 6
+  "divine": 0.3333
  },
  "source": "https://poe.ninja/poe2/economy",
  "failed": [],
  "items": {
   "chaos": {
    "name": "Chaos Orb",
-   "value": 0.1667,
+   "value": 1,
    "type": "Currency"
   },
   "divine": {
    "name": "Divine Orb",
-   "value": 1,
+   "value": 3,
    "type": "Currency"
   },
-  "exalted": {
-   "name": "Exalted Orb",
-   "value": 0.008333,
-   "type": "Currency"
+  "origin-cradle": {
+   "name": "Origin Cradle",
+   "value": 45,
+   "type": "Fragments"
   },
-  "gcp": {
-   "name": "Gemcutter's Prism",
-   "value": 0.3,
-   "type": "Currency"
-  },
-  "greater-chaos-orb": {
-   "name": "Greater Chaos Orb",
-   "value": 0.3333,
-   "type": "Currency"
-  },
-  "vaal": {
-   "name": "Vaal Orb",
-   "value": 0.05,
-   "type": "Currency"
-  },
-  "preserved-jawbone": {
-   "name": "Preserved Jawbone",
-   "value": 0.075,
+  "preserved-collarbone": {
+   "name": "Preserved Collarbone",
+   "value": 1.5,
    "type": "Abyss"
   },
-  "breath-of-aldur": {
-   "name": "Breath of Aldur",
+  "idol-of-ralakesh": {
+   "name": "Idol of Ralakesh",
+   "value": 9,
+   "type": "Idols"
+  },
+  "omen-of-abyssal-echoes": {
+   "name": "Omen of Abyssal Echoes",
+   "value": 3,
+   "type": "Ritual"
+  },
+  "voranas-saga": {
+   "name": "Vorana's Saga",
    "value": 1,
-   "type": "Runes"
+   "type": "Expedition"
   },
-  "omen-of-greater-exaltation": {
-   "name": "Omen of Greater Exaltation",
-   "value": 0.3167,
-   "type": "Ritual"
-  },
-  "omen-of-whittling": {
-   "name": "Omen of Whittling",
-   "value": 10,
-   "type": "Ritual"
-  },
-  "breach-splinter": {
-   "name": "Breach Splinter",
-   "value": 0.01,
-   "type": "Breach"
+  "voranas-crest-of-the-scythe": {
+   "name": "Vorana's Crest of the Scythe",
+   "value": 4,
+   "type": "Verisium"
   }
  }
 }
