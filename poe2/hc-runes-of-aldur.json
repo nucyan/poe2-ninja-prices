@@ -2,52 +2,58 @@
  "format": "poe2-ninja-prices",
  "formatVersion": 1,
  "league": "HC Runes of Aldur",
- "fetchedAt": "2026-11-26T09:34:57.783Z",
- "baseCurrency": "chaos",
+ "fetchedAt": "2026-11-26T19:39:20.319Z",
+ "baseCurrency": "exalted",
  "rates": {
-  "divine": 0.3333
+  "divine": 0.008333,
+  "chaos": 0.02857
  },
  "source": "https://poe.ninja/poe2/economy",
  "failed": [],
  "items": {
   "chaos": {
    "name": "Chaos Orb",
+   "value": 35,
+   "type": "Currency"
+  },
+  "exalted": {
+   "name": "Exalted Orb",
    "value": 1,
    "type": "Currency"
   },
   "divine": {
    "name": "Divine Orb",
-   "value": 3,
+   "value": 120,
+   "type": "Currency"
+  },
+  "greater-chaos-orb": {
+   "name": "Greater Chaos Orb",
+   "value": 70,
    "type": "Currency"
   },
   "origin-cradle": {
    "name": "Origin Cradle",
-   "value": 45,
+   "value": 1800,
    "type": "Fragments"
   },
-  "preserved-collarbone": {
-   "name": "Preserved Collarbone",
-   "value": 1.5,
-   "type": "Abyss"
+  "origin-spark": {
+   "name": "Origin Spark",
+   "value": 1800,
+   "type": "Fragments"
   },
-  "idol-of-ralakesh": {
-   "name": "Idol of Ralakesh",
-   "value": 9,
-   "type": "Idols"
+  "greater-desert-rune": {
+   "name": "Greater Desert Rune",
+   "value": 8,
+   "type": "Runes"
   },
-  "omen-of-abyssal-echoes": {
-   "name": "Omen of Abyssal Echoes",
-   "value": 3,
-   "type": "Ritual"
+  "expansive-alloy": {
+   "name": "Expansive Alloy",
+   "value": 120,
+   "type": "Verisium"
   },
-  "voranas-saga": {
-   "name": "Vorana's Saga",
-   "value": 1,
-   "type": "Expedition"
-  },
-  "voranas-crest-of-the-scythe": {
-   "name": "Vorana's Crest of the Scythe",
-   "value": 4,
+  "prismatic-alloy": {
+   "name": "Prismatic Alloy",
+   "value": 100,
    "type": "Verisium"
   }
  }
