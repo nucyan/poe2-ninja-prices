@@ -2,10 +2,23 @@
  "format": "poe2-ninja-prices",
  "formatVersion": 1,
  "league": "Hardcore",
- "fetchedAt": "2026-11-27T02:52:58.642Z",
+ "fetchedAt": "2026-11-27T12:30:31.348Z",
  "baseCurrency": "divine",
- "rates": {},
+ "rates": {
+  "exalted": 90
+ },
  "source": "https://poe.ninja/poe2/economy",
  "failed": [],
- "items": {}
+ "items": {
+  "divine": {
+   "name": "Divine Orb",
+   "value": 1,
+   "type": "Currency"
+  },
+  "exalted": {
+   "name": "Exalted Orb",
+   "value": 0.01111,
+   "type": "Currency"
+  }
+ }
 }

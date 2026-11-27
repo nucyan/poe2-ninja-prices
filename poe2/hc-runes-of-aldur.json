@@ -2,10 +2,10 @@
  "format": "poe2-ninja-prices",
  "formatVersion": 1,
  "league": "HC Runes of Aldur",
- "fetchedAt": "2026-11-27T02:52:58.642Z",
+ "fetchedAt": "2026-11-27T12:30:31.348Z",
  "baseCurrency": "chaos",
  "rates": {
-  "exalted": 30
+  "divine": 0.3333
  },
  "source": "https://poe.ninja/poe2/economy",
  "failed": [],
@@ -15,19 +15,34 @@
    "value": 1,
    "type": "Currency"
   },
-  "exalted": {
-   "name": "Exalted Orb",
-   "value": 0.03333,
+  "divine": {
+   "name": "Divine Orb",
+   "value": 3,
    "type": "Currency"
   },
-  "preserved-jawbone": {
-   "name": "Preserved Jawbone",
-   "value": 0.3,
-   "type": "Abyss"
+  "perfect-exalted-orb": {
+   "name": "Perfect Exalted Orb",
+   "value": 15,
+   "type": "Currency"
   },
-  "olroths-crest-of-the-sun": {
-   "name": "Olroth's Crest of the Sun",
-   "value": 9,
+  "rabbit-idol": {
+   "name": "Rabbit Idol",
+   "value": 120,
+   "type": "Idols"
+  },
+  "expansive-alloy": {
+   "name": "Expansive Alloy",
+   "value": 6,
+   "type": "Verisium"
+  },
+  "runic-alloy": {
+   "name": "Runic Alloy",
+   "value": 6,
+   "type": "Verisium"
+  },
+  "swift-alloy": {
+   "name": "Swift Alloy",
+   "value": 3,
    "type": "Verisium"
   }
  }
