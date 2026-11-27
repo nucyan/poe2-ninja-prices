@@ -2,48 +2,59 @@
  "format": "poe2-ninja-prices",
  "formatVersion": 1,
  "league": "HC Runes of Aldur",
- "fetchedAt": "2026-11-27T12:30:31.348Z",
- "baseCurrency": "chaos",
+ "fetchedAt": "2026-11-27T21:59:47.872Z",
+ "baseCurrency": "divine",
  "rates": {
-  "divine": 0.3333
+  "exalted": 120,
+  "chaos": 25
  },
  "source": "https://poe.ninja/poe2/economy",
  "failed": [],
  "items": {
   "chaos": {
    "name": "Chaos Orb",
-   "value": 1,
+   "value": 0.04,
    "type": "Currency"
   },
   "divine": {
    "name": "Divine Orb",
-   "value": 3,
+   "value": 1,
    "type": "Currency"
   },
-  "perfect-exalted-orb": {
-   "name": "Perfect Exalted Orb",
-   "value": 15,
+  "exalted": {
+   "name": "Exalted Orb",
+   "value": 0.008333,
    "type": "Currency"
   },
-  "rabbit-idol": {
-   "name": "Rabbit Idol",
-   "value": 120,
-   "type": "Idols"
+  "scrap": {
+   "name": "Armourer's Scrap",
+   "value": 0.0463,
+   "type": "Currency"
   },
-  "expansive-alloy": {
-   "name": "Expansive Alloy",
-   "value": 6,
-   "type": "Verisium"
+  "perfect-jewellers-orb": {
+   "name": "Perfect Jeweller's Orb",
+   "value": 1,
+   "type": "Currency"
   },
-  "runic-alloy": {
-   "name": "Runic Alloy",
-   "value": 6,
-   "type": "Verisium"
+  "vaal": {
+   "name": "Vaal Orb",
+   "value": 0.04087,
+   "type": "Currency"
   },
-  "swift-alloy": {
-   "name": "Swift Alloy",
-   "value": 3,
-   "type": "Verisium"
+  "omen-of-abyssal-echoes": {
+   "name": "Omen of Abyssal Echoes",
+   "value": 1,
+   "type": "Ritual"
+  },
+  "omen-of-sinistral-necromancy": {
+   "name": "Omen of Sinistral Necromancy",
+   "value": 0.4583,
+   "type": "Ritual"
+  },
+  "omen-of-whittling": {
+   "name": "Omen of Whittling",
+   "value": 10,
+   "type": "Ritual"
   }
  }
 }

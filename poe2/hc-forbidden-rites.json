@@ -2,28 +2,18 @@
  "format": "poe2-ninja-prices",
  "formatVersion": 1,
  "league": "HC Forbidden Rites",
- "fetchedAt": "2026-11-27T12:30:31.348Z",
+ "fetchedAt": "2026-11-27T21:59:47.872Z",
  "baseCurrency": "divine",
  "rates": {
-  "exalted": 410,
-  "chaos": 19.17
+  "exalted": 431.7,
+  "chaos": 18.16
  },
  "source": "https://poe.ninja/poe2/economy",
  "failed": [],
  "items": {
-  "annul": {
-   "name": "Orb of Annulment",
-   "value": 0.6327,
-   "type": "Currency"
-  },
-  "exalted": {
-   "name": "Exalted Orb",
-   "value": 0.002439,
-   "type": "Currency"
-  },
   "architects-orb": {
    "name": "Architect's Orb",
-   "value": 3.5,
+   "value": 5,
    "type": "Currency"
   },
   "divine": {
@@ -33,12 +23,17 @@
   },
   "artificers": {
    "name": "Artificer's Orb",
-   "value": 0.007317,
+   "value": 0.00695,
+   "type": "Currency"
+  },
+  "exalted": {
+   "name": "Exalted Orb",
+   "value": 0.002317,
    "type": "Currency"
   },
   "chaos": {
    "name": "Chaos Orb",
-   "value": 0.05217,
+   "value": 0.05507,
    "type": "Currency"
   },
   "alch": {
@@ -46,19 +41,34 @@
    "value": 0.003333,
    "type": "Currency"
   },
-  "bauble": {
-   "name": "Glassblower's Bauble",
-   "value": 0.06667,
-   "type": "Currency"
-  },
-  "cryptic-key": {
-   "name": "Cryptic Key",
-   "value": 0.1667,
-   "type": "Currency"
-  },
   "chance": {
    "name": "Orb of Chance",
    "value": 0.25,
+   "type": "Currency"
+  },
+  "regal": {
+   "name": "Regal Orb",
+   "value": 0.009178,
+   "type": "Currency"
+  },
+  "scrap": {
+   "name": "Armourer's Scrap",
+   "value": 0.03086,
+   "type": "Currency"
+  },
+  "annul": {
+   "name": "Orb of Annulment",
+   "value": 0.6207,
+   "type": "Currency"
+  },
+  "bauble": {
+   "name": "Glassblower's Bauble",
+   "value": 0.1111,
+   "type": "Currency"
+  },
+  "crystallised-corruption": {
+   "name": "Crystallised Corruption",
+   "value": 3,
    "type": "Currency"
   },
   "fracturing-orb": {
@@ -68,102 +78,112 @@
   },
   "perfect-chaos-orb": {
    "name": "Perfect Chaos Orb",
-   "value": 6.63,
+   "value": 6.31,
    "type": "Currency"
   },
   "perfect-exalted-orb": {
    "name": "Perfect Exalted Orb",
-   "value": 3.86,
+   "value": 4,
    "type": "Currency"
   },
   "perfect-jewellers-orb": {
    "name": "Perfect Jeweller's Orb",
-   "value": 2.4,
+   "value": 2.65,
    "type": "Currency"
   },
-  "greater-regal-orb": {
-   "name": "Greater Regal Orb",
-   "value": 0.02439,
-   "type": "Currency"
-  },
-  "regal": {
-   "name": "Regal Orb",
-   "value": 0.001463,
-   "type": "Currency"
-  },
-  "scrap": {
-   "name": "Armourer's Scrap",
-   "value": 0.0122,
+  "etcher": {
+   "name": "Arcanist's Etcher",
+   "value": 0.002317,
    "type": "Currency"
   },
   "gcp": {
    "name": "Gemcutter's Prism",
-   "value": 0.08333,
+   "value": 0.1667,
+   "type": "Currency"
+  },
+  "greater-chaos-orb": {
+   "name": "Greater Chaos Orb",
+   "value": 0.125,
    "type": "Currency"
   },
   "greater-exalted-orb": {
    "name": "Greater Exalted Orb",
-   "value": 0.04762,
+   "value": 0.04545,
    "type": "Currency"
   },
   "greater-jewellers-orb": {
    "name": "Greater Jeweller's Orb",
-   "value": 0.4812,
+   "value": 0.5507,
    "type": "Currency"
   },
-  "vaal-cultivation-orb": {
-   "name": "Vaal Cultivation Orb",
-   "value": 4,
+  "greater-orb-of-augmentation": {
+   "name": "Greater Orb of Augmentation",
+   "value": 0.05,
+   "type": "Currency"
+  },
+  "transmute": {
+   "name": "Orb of Transmutation",
+   "value": 0.0003861,
+   "type": "Currency"
+  },
+  "vaal-armourers-infuser": {
+   "name": "Vaal Armourer's Infuser",
+   "value": 0.3111,
+   "type": "Currency"
+  },
+  "vaal-catalysing-infuser": {
+   "name": "Vaal Catalysing Infuser",
+   "value": 2.33,
    "type": "Currency"
   },
   "vaal": {
    "name": "Vaal Orb",
-   "value": 0.01,
+   "value": 0.009091,
    "type": "Currency"
   },
   "whetstone": {
    "name": "Blacksmith's Whetstone",
-   "value": 0.02087,
+   "value": 0.009781,
    "type": "Currency"
   },
-  "aug": {
-   "name": "Orb of Augmentation",
-   "value": 0.001739,
-   "type": "Currency"
-  },
-  "lesser-jewellers-orb": {
-   "name": "Lesser Jeweller's Orb",
-   "value": 0.01043,
-   "type": "Currency"
-  },
-  "perfect-orb-of-augmentation": {
-   "name": "Perfect Orb of Augmentation",
-   "value": 0.1429,
-   "type": "Currency"
-  },
-  "ancient-crisis-fragment": {
-   "name": "Ancient Crisis Fragment",
+  "cowardly-fate": {
+   "name": "Cowardly Fate",
    "value": 1,
+   "type": "Fragments"
+  },
+  "deadly-fate": {
+   "name": "Deadly Fate",
+   "value": 1.29,
    "type": "Fragments"
   },
   "faded-crisis-fragment": {
    "name": "Faded Crisis Fragment",
-   "value": 2.5,
+   "value": 1,
+   "type": "Fragments"
+  },
+  "kulemaks-invitation": {
+   "name": "Kulemak's Invitation",
+   "value": 1,
+   "type": "Fragments"
+  },
+  "origin-cradle": {
+   "name": "Origin Cradle",
+   "value": 1,
    "type": "Fragments"
   },
   "simulacrum": {
    "name": "Simulacrum",
-   "value": 2,
+   "value": 1.87,
    "type": "Fragments"
   },
-  "weathered-crisis-fragment": {
-   "name": "Weathered Crisis Fragment",
+  "victorious-fate": {
+   "name": "Victorious Fate",
    "value": 1,
    "type": "Fragments"
   },
   "ancient-rib": {
    "name": "Ancient Rib",
-   "value": 5,
+   "value": 4.81,
    "type": "Abyss"
   },
   "preserved-jawbone": {
@@ -173,63 +193,73 @@
   },
   "ancient-collarbone": {
    "name": "Ancient Collarbone",
-   "value": 4.25,
+   "value": 3.2,
+   "type": "Abyss"
+  },
+  "ancient-jawbone": {
+   "name": "Ancient Jawbone",
+   "value": 3.35,
    "type": "Abyss"
   },
   "preserved-cranium": {
    "name": "Preserved Cranium",
-   "value": 3,
-   "type": "Abyss"
-  },
-  "gnawed-jawbone": {
-   "name": "Gnawed Jawbone",
-   "value": 0.002439,
+   "value": 4,
    "type": "Abyss"
   },
   "preserved-collarbone": {
    "name": "Preserved Collarbone",
-   "value": 1,
+   "value": 1.22,
    "type": "Abyss"
   },
   "preserved-rib": {
    "name": "Preserved Rib",
-   "value": 0.5,
+   "value": 0.1581,
    "type": "Abyss"
   },
-  "essence-of-command": {
-   "name": "Essence of Command",
-   "value": 0.002439,
+  "greater-essence-of-opulence": {
+   "name": "Greater Essence of Opulence",
+   "value": 1,
    "type": "Essences"
   },
-  "essence-of-grounding": {
-   "name": "Essence of Grounding",
-   "value": 0.007317,
+  "greater-essence-of-seeking": {
+   "name": "Greater Essence of Seeking",
+   "value": 0.0695,
    "type": "Essences"
   },
-  "greater-essence-of-ruin": {
-   "name": "Greater Essence of Ruin",
-   "value": 0.06098,
-   "type": "Essences"
-  },
-  "greater-essence-of-abrasion": {
-   "name": "Greater Essence of Abrasion",
-   "value": 0.07317,
-   "type": "Essences"
-  },
-  "greater-essence-of-enhancement": {
-   "name": "Greater Essence of Enhancement",
-   "value": 0.007317,
-   "type": "Essences"
-  },
-  "perfect-essence-of-the-body": {
-   "name": "Perfect Essence of the Body",
-   "value": 0.122,
-   "type": "Essences"
-  },
-  "tzamotos-soul-core-of-ferocity": {
-   "name": "Tzamoto's Soul Core of Ferocity",
-   "value": 3,
+  "atziris-soul-core-of-alacrity": {
+   "name": "Atziri's Soul Core of Alacrity",
+   "value": 6,
    "type": "SoulCores"
+  },
+  "soul-core-of-jiquani": {
+   "name": "Soul Core of Jiquani",
+   "value": 4,
+   "type": "SoulCores"
+  },
+  "soul-core-of-tacati": {
+   "name": "Soul Core of Tacati",
+   "value": 0.5,
+   "type": "SoulCores"
+  },
+  "raven-touched-shard": {
+   "name": "Raven-Touched Shard",
+   "value": 100,
+   "type": "SoulCores"
+  },
+  "tacatis-soul-core-of-affliction": {
+   "name": "Tacati's Soul Core of Affliction",
+   "value": 2,
+   "type": "SoulCores"
+  },
+  "cat-idol": {
+   "name": "Cat Idol",
+   "value": 0.2203,
+   "type": "Idols"
+  },
+  "idol-of-oak": {
+   "name": "Idol of Oak",
+   "value": 3,
+   "type": "Idols"
   },
   "idol-of-ralakesh": {
    "name": "Idol of Ralakesh",
@@ -241,24 +271,29 @@
    "value": 0.5,
    "type": "Idols"
   },
-  "fox-idol": {
-   "name": "Fox Idol",
-   "value": 8.5,
+  "ox-idol": {
+   "name": "Ox Idol",
+   "value": 0.05507,
    "type": "Idols"
   },
-  "hawk-idol": {
-   "name": "Hawk Idol",
+  "rabbit-idol": {
+   "name": "Rabbit Idol",
    "value": 1,
    "type": "Idols"
   },
-  "craiceanns-rune-of-warding": {
-   "name": "Craiceann's Rune of Warding",
-   "value": 1,
-   "type": "Runes"
+  "stag-idol": {
+   "name": "Stag Idol",
+   "value": 0.03012,
+   "type": "Idols"
   },
-  "fenumus-rune-of-agony": {
-   "name": "Fenumus' Rune of Agony",
-   "value": 3,
+  "owl-idol": {
+   "name": "Owl Idol",
+   "value": 0.2753,
+   "type": "Idols"
+  },
+  "astrids-creativity": {
+   "name": "Astrid's Creativity",
+   "value": 10,
    "type": "Runes"
   },
   "masterwork-rune": {
@@ -266,114 +301,114 @@
    "value": 1.5,
    "type": "Runes"
   },
-  "greater-desert-rune": {
-   "name": "Greater Desert Rune",
-   "value": 0.122,
-   "type": "Runes"
-  },
   "greater-iron-rune": {
    "name": "Greater Iron Rune",
-   "value": 0.05,
+   "value": 0.02317,
    "type": "Runes"
   },
   "greater-storm-rune": {
    "name": "Greater Storm Rune",
-   "value": 0.122,
+   "value": 0.1158,
    "type": "Runes"
   },
-  "greater-vision-rune": {
-   "name": "Greater Vision Rune",
-   "value": 0.07317,
+  "hedgewitch-assandras-rune-of-wisdom": {
+   "name": "Hedgewitch Assandra's Rune of Wisdom",
+   "value": 3,
    "type": "Runes"
   },
-  "lesser-storm-rune": {
-   "name": "Lesser Storm Rune",
-   "value": 0.002439,
+  "lesser-iron-rune": {
+   "name": "Lesser Iron Rune",
+   "value": 0.002317,
+   "type": "Runes"
+  },
+  "passion-of-aldur": {
+   "name": "Passion of Aldur",
+   "value": 0.04633,
+   "type": "Runes"
+  },
+  "rune-of-foundations": {
+   "name": "Rune of Foundations",
+   "value": 1,
+   "type": "Runes"
+  },
+  "saqawals-rune-of-memory": {
+   "name": "Saqawal's Rune of Memory",
+   "value": 0.5,
    "type": "Runes"
   },
   "omen-of-abyssal-echoes": {
    "name": "Omen of Abyssal Echoes",
-   "value": 0.2353,
+   "value": 0.4118,
    "type": "Ritual"
   },
-  "omen-of-greater-exaltation": {
-   "name": "Omen of Greater Exaltation",
-   "value": 0.05217,
-   "type": "Ritual"
-  },
-  "omen-of-refreshment": {
-   "name": "Omen of Refreshment",
-   "value": 0.1043,
+  "omen-of-sinistral-necromancy": {
+   "name": "Omen of Sinistral Necromancy",
+   "value": 0.04402,
    "type": "Ritual"
   },
   "omen-of-dextral-annulment": {
    "name": "Omen of Dextral Annulment",
-   "value": 9.5,
-   "type": "Ritual"
-  },
-  "omen-of-dextral-crystallisation": {
-   "name": "Omen of Dextral Crystallisation",
-   "value": 2,
-   "type": "Ritual"
-  },
-  "omen-of-dextral-erasure": {
-   "name": "Omen of Dextral Erasure",
    "value": 7,
    "type": "Ritual"
   },
   "omen-of-light": {
    "name": "Omen of Light",
-   "value": 4.36,
-   "type": "Ritual"
-  },
-  "omen-of-reinforcements": {
-   "name": "Omen of Reinforcements",
-   "value": 18,
+   "value": 5.2,
    "type": "Ritual"
   },
   "omen-of-sinistral-annulment": {
    "name": "Omen of Sinistral Annulment",
-   "value": 15.89,
+   "value": 15,
    "type": "Ritual"
   },
   "omen-of-sinistral-crystallisation": {
    "name": "Omen of Sinistral Crystallisation",
-   "value": 3,
+   "value": 2.31,
    "type": "Ritual"
   },
-  "omen-of-sinistral-necromancy": {
-   "name": "Omen of Sinistral Necromancy",
-   "value": 0.04634,
+  "head-of-the-king": {
+   "name": "Head of the King",
+   "value": 1,
    "type": "Ritual"
   },
-  "omen-of-amelioration": {
-   "name": "Omen of Amelioration",
+  "omen-of-bartering": {
+   "name": "Omen of Bartering",
    "value": 1,
    "type": "Ritual"
   },
   "omen-of-catalysing-exaltation": {
    "name": "Omen of Catalysing Exaltation",
-   "value": 0.1098,
+   "value": 0.1,
    "type": "Ritual"
   },
   "omen-of-chaotic-effectiveness": {
    "name": "Omen of Chaotic Effectiveness",
-   "value": 0.1043,
+   "value": 0.0826,
    "type": "Ritual"
   },
   "omen-of-chaotic-monsters": {
    "name": "Omen of Chaotic Monsters",
-   "value": 0.2087,
+   "value": 0.1538,
    "type": "Ritual"
   },
-  "omen-of-dextral-exaltation": {
-   "name": "Omen of Dextral Exaltation",
-   "value": 0.07317,
+  "omen-of-chaotic-rarity": {
+   "name": "Omen of Chaotic Rarity",
+   "value": 0.1101,
+   "type": "Ritual"
+  },
+  "omen-of-dextral-necromancy": {
+   "name": "Omen of Dextral Necromancy",
+   "value": 0.02734,
+   "type": "Ritual"
+  },
+  "omen-of-putrefaction": {
+   "name": "Omen of Putrefaction",
+   "value": 0.2753,
    "type": "Ritual"
   },
   "omen-of-resurgence": {
    "name": "Omen of Resurgence",
-   "value": 0.05217,
+   "value": 0.05507,
    "type": "Ritual"
   },
   "omen-of-sanctification": {
@@ -383,17 +418,12 @@
   },
   "omen-of-sinistral-erasure": {
    "name": "Omen of Sinistral Erasure",
-   "value": 17.25,
-   "type": "Ritual"
-  },
-  "omen-of-sinistral-exaltation": {
-   "name": "Omen of Sinistral Exaltation",
-   "value": 0.08293,
+   "value": 21.5,
    "type": "Ritual"
   },
   "omen-of-the-ancients": {
    "name": "Omen of the Ancients",
-   "value": 0.05217,
+   "value": 0.05507,
    "type": "Ritual"
   },
   "omen-of-the-blessed": {
@@ -401,84 +431,139 @@
    "value": 0.5,
    "type": "Ritual"
   },
+  "omen-of-the-liege": {
+   "name": "Omen of the Liege",
+   "value": 0.0003309,
+   "type": "Ritual"
+  },
   "omen-of-whittling": {
    "name": "Omen of Whittling",
-   "value": 10.4,
+   "value": 10.3,
    "type": "Ritual"
   },
-  "sacred-bloom": {
-   "name": "Sacred Bloom",
-   "value": 0.1043,
-   "type": "Ritual"
-  },
-  "uhtreds-saga": {
-   "name": "Uhtred's Saga",
-   "value": 3,
+  "blazing-flux": {
+   "name": "Blazing Flux",
+   "value": 1,
    "type": "Expedition"
   },
-  "crackling-flux": {
-   "name": "Crackling Flux",
-   "value": 0.313,
+  "expedition-logbook": {
+   "name": "Expedition Logbook",
+   "value": 0.1667,
    "type": "Expedition"
+  },
+  "ancient-concentrated-liquid-isolation": {
+   "name": "Ancient Concentrated Liquid Isolation",
+   "value": 4,
+   "type": "Delirium"
+  },
+  "ancient-liquid-disgust": {
+   "name": "Ancient Liquid Disgust",
+   "value": 1,
+   "type": "Delirium"
   },
   "concentrated-liquid-fear": {
    "name": "Concentrated Liquid Fear",
-   "value": 0.04878,
+   "value": 0.9167,
    "type": "Delirium"
   },
   "diluted-liquid-greed": {
    "name": "Diluted Liquid Greed",
-   "value": 0.03659,
+   "value": 0.5,
+   "type": "Delirium"
+  },
+  "ancient-potent-liquid-melancholy": {
+   "name": "Ancient Potent Liquid Melancholy",
+   "value": 2,
    "type": "Delirium"
   },
   "concentrated-liquid-isolation": {
    "name": "Concentrated Liquid Isolation",
-   "value": 6.5,
+   "value": 5.8,
+   "type": "Delirium"
+  },
+  "concentrated-liquid-suffering": {
+   "name": "Concentrated Liquid Suffering",
+   "value": 1,
+   "type": "Delirium"
+  },
+  "liquid-paranoia": {
+   "name": "Liquid Paranoia",
+   "value": 1,
+   "type": "Delirium"
+  },
+  "potent-liquid-ferocity": {
+   "name": "Potent Liquid Ferocity",
+   "value": 2.86,
    "type": "Delirium"
   },
   "liquid-despair": {
    "name": "Liquid Despair",
-   "value": 0.25,
+   "value": 0.08108,
    "type": "Delirium"
   },
-  "liquid-disgust": {
-   "name": "Liquid Disgust",
-   "value": 0.03902,
+  "potent-liquid-contempt": {
+   "name": "Potent Liquid Contempt",
+   "value": 4.5,
    "type": "Delirium"
   },
-  "flesh-catalyst": {
-   "name": "Flesh Catalyst",
+  "potent-liquid-melancholy": {
+   "name": "Potent Liquid Melancholy",
    "value": 1,
-   "type": "Breach"
+   "type": "Delirium"
   },
-  "adaptive-catalyst": {
-   "name": "Adaptive Catalyst",
-   "value": 0.25,
+  "xophs-catalyst": {
+   "name": "Xoph's Catalyst",
+   "value": 0.4,
    "type": "Breach"
   },
   "neural-catalyst": {
    "name": "Neural Catalyst",
-   "value": 0.1,
+   "value": 0.2753,
    "type": "Breach"
+  },
+  "tuls-catalyst": {
+   "name": "Tul's Catalyst",
+   "value": 0.25,
+   "type": "Breach"
+  },
+  "adaptive-alloy": {
+   "name": "Adaptive Alloy",
+   "value": 2,
+   "type": "Verisium"
+  },
+  "celestial-alloy": {
+   "name": "Celestial Alloy",
+   "value": 1,
+   "type": "Verisium"
   },
   "sovereign-alloy": {
    "name": "Sovereign Alloy",
-   "value": 0.1043,
+   "value": 1,
    "type": "Verisium"
   },
   "exceptional-verisium": {
    "name": "Exceptional Verisium",
-   "value": 0.02609,
+   "value": 0.09091,
    "type": "Verisium"
   },
   "medveds-crest-of-the-circle": {
    "name": "Medved's Crest of the Circle",
-   "value": 0.06098,
+   "value": 0.05792,
+   "type": "Verisium"
+  },
+  "mystic-alloy": {
+   "name": "Mystic Alloy",
+   "value": 0.1158,
    "type": "Verisium"
   },
   "olroths-crest-of-the-sun": {
    "name": "Olroth's Crest of the Sun",
    "value": 0.5,
+   "type": "Verisium"
+  },
+  "the-runebinders-alloy": {
+   "name": "The Runebinder's Alloy",
+   "value": 1,
    "type": "Verisium"
   },
   "uhtreds-crest-of-the-chalice": {
