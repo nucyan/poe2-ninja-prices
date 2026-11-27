@@ -2,58 +2,32 @@
  "format": "poe2-ninja-prices",
  "formatVersion": 1,
  "league": "HC Runes of Aldur",
- "fetchedAt": "2026-11-26T19:39:20.319Z",
- "baseCurrency": "exalted",
+ "fetchedAt": "2026-11-27T02:52:58.642Z",
+ "baseCurrency": "chaos",
  "rates": {
-  "divine": 0.008333,
-  "chaos": 0.02857
+  "exalted": 30
  },
  "source": "https://poe.ninja/poe2/economy",
  "failed": [],
  "items": {
   "chaos": {
    "name": "Chaos Orb",
-   "value": 35,
+   "value": 1,
    "type": "Currency"
   },
   "exalted": {
    "name": "Exalted Orb",
-   "value": 1,
+   "value": 0.03333,
    "type": "Currency"
   },
-  "divine": {
-   "name": "Divine Orb",
-   "value": 120,
-   "type": "Currency"
+  "preserved-jawbone": {
+   "name": "Preserved Jawbone",
+   "value": 0.3,
+   "type": "Abyss"
   },
-  "greater-chaos-orb": {
-   "name": "Greater Chaos Orb",
-   "value": 70,
-   "type": "Currency"
-  },
-  "origin-cradle": {
-   "name": "Origin Cradle",
-   "value": 1800,
-   "type": "Fragments"
-  },
-  "origin-spark": {
-   "name": "Origin Spark",
-   "value": 1800,
-   "type": "Fragments"
-  },
-  "greater-desert-rune": {
-   "name": "Greater Desert Rune",
-   "value": 8,
-   "type": "Runes"
-  },
-  "expansive-alloy": {
-   "name": "Expansive Alloy",
-   "value": 120,
-   "type": "Verisium"
-  },
-  "prismatic-alloy": {
-   "name": "Prismatic Alloy",
-   "value": 100,
+  "olroths-crest-of-the-sun": {
+   "name": "Olroth's Crest of the Sun",
+   "value": 9,
    "type": "Verisium"
   }
  }
