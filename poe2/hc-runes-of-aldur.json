@@ -2,16 +2,64 @@
  "format": "poe2-ninja-prices",
  "formatVersion": 1,
  "league": "HC Runes of Aldur",
- "fetchedAt": "2026-11-28T03:55:47.210Z",
+ "fetchedAt": "2026-11-28T13:04:51.104Z",
  "baseCurrency": "exalted",
- "rates": {},
+ "rates": {
+  "divine": 0.008333,
+  "chaos": 0.02857
+ },
  "source": "https://poe.ninja/poe2/economy",
  "failed": [],
  "items": {
-  "preserved-jawbone": {
-   "name": "Preserved Jawbone",
-   "value": 9,
+  "vaal": {
+   "name": "Vaal Orb",
+   "value": 4,
+   "type": "Currency"
+  },
+  "exalted": {
+   "name": "Exalted Orb",
+   "value": 1,
+   "type": "Currency"
+  },
+  "chaos": {
+   "name": "Chaos Orb",
+   "value": 35,
+   "type": "Currency"
+  },
+  "divine": {
+   "name": "Divine Orb",
+   "value": 120,
+   "type": "Currency"
+  },
+  "preserved-collarbone": {
+   "name": "Preserved Collarbone",
+   "value": 120,
    "type": "Abyss"
+  },
+  "ancient-jawbone": {
+   "name": "Ancient Jawbone",
+   "value": 1440,
+   "type": "Abyss"
+  },
+  "serles-triumph": {
+   "name": "Serle's Triumph",
+   "value": 1200,
+   "type": "Runes"
+  },
+  "omen-of-light": {
+   "name": "Omen of Light",
+   "value": 1080,
+   "type": "Ritual"
+  },
+  "expedition-logbook": {
+   "name": "Expedition Logbook",
+   "value": 600,
+   "type": "Expedition"
+  },
+  "liquid-verisium": {
+   "name": "Liquid Verisium",
+   "value": 46.15,
+   "type": "Verisium"
   }
  }
 }
